@@ -753,7 +753,12 @@ http://freetv-01.dyndns.tv/live/TFLM.m3u8
 http://freetv-01.dyndns.tv/live/ASER.m3u8
 #EXTINF:-1,Movies Hit
 http://freetv-01.dyndns.tv/live/MOVH.m3u8
-#EXTINF:-1,Ch 3 HD
-http://symc-cdn04.bkk02.violin.co.th:1935/liveedge/307947436081_600/chunklist_w328750179.m3u8
-#EXTINF:-1,Ch 5 HD
-http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/308661309596_600/chunklist_w1103967253.m3u8
+#EXTINF:-1,AC1
+http://103.40.138.89:1935/live/ac4/chunklist_w1240098505.m3u8
+#EXTINF:-1,AC2
+http://103.40.138.89:1935/live/ac2/chunklist_w1396173242.m3u8
+#EXTINF:-1,AC3
+http://103.40.138.89:1935/live/ac3/chunklist_w1608741844.m3u8
+#EXTINF:-1,AC4
+http://103.40.138.89:1935/live/ac4/chunklist_w159512461.m3u8
+
