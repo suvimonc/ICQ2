@@ -2,7 +2,7 @@
 #EXTINF:-1,Ch 3 HD
 http://111.223.37.196:1935/thaitv3_HD/thaitv3_HD_1/playlist.m3u8
 #EXTINF:-1,Ch 5 HD
-http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/308661309596_600/chunklist_w1799953911.m3u8
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w121663169_b1024000.m3u8
 #EXTINF:-1,Ch 7 HD
 http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/308091128717_600/chunklist_w1875765258.m3u8
 #EXTINF:-1,Mcot HD
