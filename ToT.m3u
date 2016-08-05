@@ -27,26 +27,6 @@ http://61.19.18.237/live/m1.sdp/playlist.m3u8
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1,PSI
 http://iptv-blue.mine.nu:1936/iptv/307043227480_600/chunklist_w238722544.m3u8
-#EXTINF:-1,CTH1
-http://103.7.57.19:1935/goalclub/arena1.stream/chunklist.m3u8
-#EXTINF:-1,CTH2
-http://103.7.57.19:1935/goalclub/arena2.stream/chunklist.m3u8
-#EXTINF:-1,CTH3
-http://103.7.57.19:1935/goalclub/arena3.stream/chunklist.m3u8
-#EXTINF:-1,CTH4
-http://103.7.57.19:1935/goalclub/arena4.stream/chunklist.m3u8
-#EXTINF:-1,CTH5
-http://103.7.57.19:1935/goalclub/arena5.stream/chunklist.m3u8
-#EXTINF:-1,CTH1
-http://27.254.150.7:1935/footballfuck/smil:test.smil/chunklist_w440184296_b244100_slTH.m3u8
-#EXTINF:-1,CTH2
-http://27.254.150.7:1935/footballfuck/smil:test2.smil/chunklist_w1082427263_b244100_slTH.m3u8
-#EXTINF:-1,CTH3
-http://stream.goalclub.tv:1935/cth/smil:arena3.smil/chunklist_w1319622445_b1544100_slth.m3u8
-#EXTINF:-1,CTH4
-http://27.254.150.7:1935/footballfuck/smil:test4.smil/chunklist_w1651870264_b244100_slTH.m3u8
-#EXTINF:-1,CTH5
-http://27.254.150.7:1935/footballfuck/smil:test5.smil/chunklist_w1294913616_b244100_slTH.m3u8
 #EXTINF:-1,Bein Sport
 http://103.7.57.19:1935/goalclub/bein.stream/chunklist.m3u8
 #EXTINF:-1,Bein Sport
@@ -155,7 +135,7 @@ http://111.223.52.110/tot/c316ed9333e54442b25077f0bb3cc269.m3u8?token=fuck
 http://111.223.52.110/tot/9961a963920f45f4bc0d81c3e478b334.m3u8?token=fuck
 #EXTINF:-1,Fox Thai
 http://111.223.52.110/tot/63cbfb466fe644dda11a8e109611a5cd.m3u8?token=fuck
-#EXTINF:-1,FoxCrim HD
+#EXTINF:-1,FoxCrime HD
 http://111.223.52.110/tot/5028f7ff1d1b4d5f8189690233364737.m3u8?token=fuck
 #EXTINF:-1,Fox Action
 http://111.223.52.110/tot/206105b34a1c44b886c6cd3c59105803.m3u8?token=fuck
