@@ -27,6 +27,22 @@ http://61.19.18.237/live/m1.sdp/playlist.m3u8
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1,PSI
 http://iptv-blue.mine.nu:1936/iptv/307043227480_600/chunklist_w238722544.m3u8
+#EXTINF:-1,True sport 5
+rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi34
+#EXTINF:-1,True sport 6
+rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi35
+#EXTINF:-1,True sporthd1
+rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi37
+#EXTINF:-1,True sporthd2
+rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi39
+#EXTINF:-1,True sporthd2
+rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi40
+#EXTINF:-1,True sporthd3
+rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi41
+#EXTINF:-1,True sporthd3
+rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi42
+#EXTINF:-1,True sporthd4
+rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi43
 #EXTINF:-1,Bein Sport
 http://103.7.57.19:1935/goalclub/bein.stream/chunklist.m3u8
 #EXTINF:-1,Bein Sport
