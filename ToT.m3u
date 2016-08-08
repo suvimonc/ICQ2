@@ -10,7 +10,9 @@ http://lb-media.mcot.net:1935/9mcot_edge/9mcot.stream/playlist.m3u8
 #EXTINF:-1,TPBS  HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1,MONO29
-http://solution01.stream.3bb.co.th:1935/MonoTV720/720p_th/chunklist_w1096387566.m3u8
+http://a1.adintrend.com:443/live/ch38/i/ch38i.m3u8
+#EXTINF:-1,NBT
+http://a1.adintrend.com:443/live/ch11/i/ch11i.m3u8
 #EXTINF:-1,THAI PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1,TNN 24
@@ -25,12 +27,26 @@ http://workpoint.radical-enlighten.com:1935/workpoint/_definst_/workpoint_720p/c
 http://61.19.18.237/live/m1.sdp/playlist.m3u8
 #EXTINF:-1,Thairath HD 
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1,PSI
-http://iptv-blue.mine.nu:1936/iptv/307043227480_600/chunklist_w238722544.m3u8
+#EXTINF:-1,Bright TV
+http://iam.brighttv.co.th/BrightTV/smil:live.smil/playlist.m3u8
+#EXTINF:-1,True sport 2
+rtmp://216.185.103.158/live2/chthaipremier31
+#EXTINF:-1,True sport 5
+rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi34
+#EXTINF:-1,True sport 5
+http://27.254.150.7:1935/footballfuck/t5_360p/playlist.m3u8
 #EXTINF:-1,True sport 5
 rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi34
 #EXTINF:-1,True sport 6
 rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi35
+#EXTINF:-1,True sport 6
+http://27.254.150.7:1935/footballfuck/t6_360p/playlist.m3u8
+#EXTINF:-1,True sport 7
+http://27.254.150.7:1935/footballfuck/t7_360p/playlist.m3u8
+#EXTINF:-1,True sporthd1
+http://27.254.52.173:8082/True_sport_HD/index.m3u8
+#EXTINF:-1,True sporthd2
+http://27.254.150.7:1935/footballfuck/thd2_720p/playlist.m3u8
 #EXTINF:-1,True sporthd1
 rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi37
 #EXTINF:-1,True sporthd2
