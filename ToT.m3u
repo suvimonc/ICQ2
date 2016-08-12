@@ -372,98 +372,6 @@ http://103.22.183.175/stream/totnew.php?channel_id=1fd48f2cd616439ca4162478e572d
 #EXTINF:-1,Fox Sport 3
 http://103.22.183.175/stream/totnew.php?channel_id=b254601a75724ad79e2633f3d307e331
 #EXTINF:-1,Ch3 HD
-http://150.107.29.72/live/3-HD.m3u8
-#EXTINF:-1,Ch5 HD
-http://150.107.29.72/live/TV5-HD1.m3u8
-#EXTINF:-1,Ch7 HD
-http://150.107.29.72/live/CH7-HD.m3u8
-#EXTINF:-1,Amarin HD
-http://150.107.29.72/live/Amarin-TV-HD.m3u8
-#EXTINF:-1,Mcot HD
-http://150.107.29.72/live/MCOT-HD.m3u8
-#EXTINF:-1,Nbt HD
-http://150.107.29.72/live/NBT-HD.m3u8
-#EXTINF:-1,TPBS HD
-http://150.107.29.72/live/TPBS.m3u8
-#EXTINF:-1,Ch8 HD
-http://150.107.29.72/live/CH8-HD.m3u8
-#EXTINF:-1,One HD
-http://150.107.29.72/live/ONE-HD.m3u8
-#EXTINF:-1,PPTV HD
-http://150.107.29.72/live/PPTV-HD.m3u8
-#EXTINF:-1,Thairath HD
-http://150.107.29.72/live/Thairath-TV.m3u8
-#EXTINF:-1,Workpoint HD
-http://150.107.29.72/live/workpoint-HD.m3u8
-#EXTINF:-1,Tnn 24
-http://150.107.29.72/live/TNN24.m3u8
-#EXTINF:-1,Gmm 25
-http://150.107.29.72/live/GMM-25.m3u8
-#EXTINF:-1,Mono 29
-http://150.107.29.72/live/MONO-29.m3u8
-#EXTINF:-1,New
-http://150.107.29.72/live/new-tv.m3u8
-#EXTINF:-1,Spark jump
-http://150.107.29.72/live/SPK-JUMP.m3u8
-#EXTINF:-1,Spark play
-http://150.107.29.72/live/SPK-PLAY.m3u8
-#EXTINF:-1,Toonami
-http://150.107.29.72/live/Toonami.m3u8
-#EXTINF:-1,Boomerang
-http://150.107.29.72/live/BOOMERANG.m3u8
-#EXTINF:-1,Cartoon Club
-http://150.107.29.72/live/C-Club.m3u8
-#EXTINF:-1,Gang Cartoon 
-http://150.107.29.72/live/GANG-CARTOON.m3u8
-#EXTINF:-1,True Sport 2
-http://150.107.29.72/live/KNOW-TSP2.m3u8
-#EXTINF:-1,True Sport 5
-http://150.107.29.72/live/TSP5.m3u8
-#EXTINF:-1,True Sport 6
-http://150.107.29.72/live/TSP6.m3u8
-#EXTINF:-1,True Sport 7
-http://150.107.29.72/live/TSP7.m3u8
-#EXTINF:-1,Euro Sport 
-http://150.107.29.72/live/EURO-SPORTS.m3u8
-#EXTINF:-1,Fox Sport 1
-http://150.107.29.72/live/FOX-SPORTS-1.m3u8
-#EXTINF:-1,Fox Sport 2
-http://150.107.29.72/live/FOX-SPORTS-2.m3u8
-#EXTINF:-1,Fox Sport 3
-http://150.107.29.72/live/FOX-SPORTS-3.m3u8
-#EXTINF:-1,True Explorer Life
-http://150.107.29.72/live/EXPLIFE.m3u8
-#EXTINF:-1,True Explorer Wild
-http://150.107.29.72/live/EXPWILD.m3u8
-#EXTINF:-1,True Explorer Sci
-http://150.107.29.72/live/EXPSCI.m3u8
-#EXTINF:-1,PSI
-http://150.107.29.72/live/PSI-CHANNEL-HD.m3u8
-#EXTINF:-1,TLC
-http://150.107.29.72/live/GOLDA-TLC.m3u8
-#EXTINF:-1,INSIDE
-http://150.107.29.72/live/INSE.m3u8
-#EXTINF:-1,CHIC
-http://150.107.29.72/live/KNOW-CHIC.m3u8
-#EXTINF:-1,KBS world
-http://150.107.29.72/live/KBS.m3u8
-#EXTINF:-1,CCTV
-http://150.107.29.72/live/KNOW-CCTV.m3u8
-#EXTINF:-1,Fox thai
-http://150.107.29.72/live/FOX.m3u8
-#EXTINF:-1,Red
-http://150.107.29.72/live/RED.m3u8
-#EXTINF:-1,True Xzyte
-http://150.107.29.72/live/KNOW-XZYT.m3u8
-#EXTINF:-1,Film asia
-http://150.107.29.72/live/FL-A.m3u8
-#EXTINF:-1,Thai film
-http://150.107.29.72/live/TFLM.m3u8
-#EXTINF:-1,Asian series
-http://150.107.29.72/live/ASER.m3u8
-#EXTINF:-1,Movies Hit
-http://150.107.29.72/live/MOVH.m3u8
-#EXTINF:-1,Ch3 HD
 http://freetv-01.dyndns.tv/live/3-HD.m3u8
 #EXTINF:-1,Ch5 HD
 http://freetv-01.dyndns.tv/live/TV5-HD1.m3u8
@@ -757,3 +665,95 @@ http://103.7.57.30/live/TFLM.m3u8
 http://103.7.57.30/live/ASER.m3u8
 #EXTINF:-1,Movies Hit
 http://103.7.57.30/live/MOVH.m3u8 
+#EXTINF:-1,Ch3 HD
+http://150.107.29.72/live/3-HD.m3u8
+#EXTINF:-1,Ch5 HD
+http://150.107.29.72/live/TV5-HD1.m3u8
+#EXTINF:-1,Ch7 HD
+http://150.107.29.72/live/CH7-HD.m3u8
+#EXTINF:-1,Amarin HD
+http://150.107.29.72/live/Amarin-TV-HD.m3u8
+#EXTINF:-1,Mcot HD
+http://150.107.29.72/live/MCOT-HD.m3u8
+#EXTINF:-1,Nbt HD
+http://150.107.29.72/live/NBT-HD.m3u8
+#EXTINF:-1,TPBS HD
+http://150.107.29.72/live/TPBS.m3u8
+#EXTINF:-1,Ch8 HD
+http://150.107.29.72/live/CH8-HD.m3u8
+#EXTINF:-1,One HD
+http://150.107.29.72/live/ONE-HD.m3u8
+#EXTINF:-1,PPTV HD
+http://150.107.29.72/live/PPTV-HD.m3u8
+#EXTINF:-1,Thairath HD
+http://150.107.29.72/live/Thairath-TV.m3u8
+#EXTINF:-1,Workpoint HD
+http://150.107.29.72/live/workpoint-HD.m3u8
+#EXTINF:-1,Tnn 24
+http://150.107.29.72/live/TNN24.m3u8
+#EXTINF:-1,Gmm 25
+http://150.107.29.72/live/GMM-25.m3u8
+#EXTINF:-1,Mono 29
+http://150.107.29.72/live/MONO-29.m3u8
+#EXTINF:-1,New
+http://150.107.29.72/live/new-tv.m3u8
+#EXTINF:-1,Spark jump
+http://150.107.29.72/live/SPK-JUMP.m3u8
+#EXTINF:-1,Spark play
+http://150.107.29.72/live/SPK-PLAY.m3u8
+#EXTINF:-1,Toonami
+http://150.107.29.72/live/Toonami.m3u8
+#EXTINF:-1,Boomerang
+http://150.107.29.72/live/BOOMERANG.m3u8
+#EXTINF:-1,Cartoon Club
+http://150.107.29.72/live/C-Club.m3u8
+#EXTINF:-1,Gang Cartoon 
+http://150.107.29.72/live/GANG-CARTOON.m3u8
+#EXTINF:-1,True Sport 2
+http://150.107.29.72/live/KNOW-TSP2.m3u8
+#EXTINF:-1,True Sport 5
+http://150.107.29.72/live/TSP5.m3u8
+#EXTINF:-1,True Sport 6
+http://150.107.29.72/live/TSP6.m3u8
+#EXTINF:-1,True Sport 7
+http://150.107.29.72/live/TSP7.m3u8
+#EXTINF:-1,Euro Sport 
+http://150.107.29.72/live/EURO-SPORTS.m3u8
+#EXTINF:-1,Fox Sport 1
+http://150.107.29.72/live/FOX-SPORTS-1.m3u8
+#EXTINF:-1,Fox Sport 2
+http://150.107.29.72/live/FOX-SPORTS-2.m3u8
+#EXTINF:-1,Fox Sport 3
+http://150.107.29.72/live/FOX-SPORTS-3.m3u8
+#EXTINF:-1,True Explorer Life
+http://150.107.29.72/live/EXPLIFE.m3u8
+#EXTINF:-1,True Explorer Wild
+http://150.107.29.72/live/EXPWILD.m3u8
+#EXTINF:-1,True Explorer Sci
+http://150.107.29.72/live/EXPSCI.m3u8
+#EXTINF:-1,PSI
+http://150.107.29.72/live/PSI-CHANNEL-HD.m3u8
+#EXTINF:-1,TLC
+http://150.107.29.72/live/GOLDA-TLC.m3u8
+#EXTINF:-1,INSIDE
+http://150.107.29.72/live/INSE.m3u8
+#EXTINF:-1,CHIC
+http://150.107.29.72/live/KNOW-CHIC.m3u8
+#EXTINF:-1,KBS world
+http://150.107.29.72/live/KBS.m3u8
+#EXTINF:-1,CCTV
+http://150.107.29.72/live/KNOW-CCTV.m3u8
+#EXTINF:-1,Fox thai
+http://150.107.29.72/live/FOX.m3u8
+#EXTINF:-1,Red
+http://150.107.29.72/live/RED.m3u8
+#EXTINF:-1,True Xzyte
+http://150.107.29.72/live/KNOW-XZYT.m3u8
+#EXTINF:-1,Film asia
+http://150.107.29.72/live/FL-A.m3u8
+#EXTINF:-1,Thai film
+http://150.107.29.72/live/TFLM.m3u8
+#EXTINF:-1,Asian series
+http://150.107.29.72/live/ASER.m3u8
+#EXTINF:-1,Movies Hit
+http://150.107.29.72/live/MOVH.m3u8
