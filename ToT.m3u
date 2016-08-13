@@ -27,6 +27,14 @@ http://61.19.18.237/live/m1.sdp/playlist.m3u8
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1,PSI
 http://iptv-blue.mine.nu:1936/iptv/307043227480_600/chunklist_w238722544.m3u8
+#EXTINF:-1,Bein Sport 1
+http://streamer.u-play.tv:8081/uplay-3/epl-bein1_720/chunks.m3u8
+#EXTINF:-1,Bein Sport 2
+http://streamer.u-play.tv:8081/uplay-3/epl-bein2_720/chunks.m3u8
+#EXTINF:-1,Bein Sport 3
+http://streamer.u-play.tv:8081/uplay-3/epl-bein3_720/chunks.m3u8
+#EXTINF:-1,Bein Sport 4
+http://streamer.u-play.tv:8081/uplay-3/epl-bein4_720/chunks.m3u8
 #EXTINF:-1,True sport 5
 rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi34
 #EXTINF:-1,True sport 6
@@ -69,14 +77,6 @@ http://27.254.149.37:8082/Samrujlok/index.m3u8
 http://27.254.149.37:8082/Mysci/index.m3u8
 #EXTINF:-1,HBO Hit
 http://27.131.166.195:8018/HBO_Hits(suud)/index.m3u8
-#EXTINF:-1,AC1
-http://103.40.138.89:1935/live/ac4/chunklist_w1240098505.m3u8
-#EXTINF:-1,AC2
-http://103.40.138.89:1935/live/ac2/chunklist_w1396173242.m3u8
-#EXTINF:-1,AC3
-http://103.40.138.89:1935/live/ac3/chunklist_w1608741844.m3u8
-#EXTINF:-1,AC4
-http://103.40.138.89:1935/live/ac4/chunklist_w159512461.m3u8
 #EXTINF:-1,NHK
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1,CH3 HD
