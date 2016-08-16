@@ -36,41 +36,19 @@ http://streamer.u-play.tv:8081/uplay-3/epl-bein3_720/chunks.m3u8
 #EXTINF:-1,Bein Sport 4
 http://streamer.u-play.tv:8081/uplay-3/epl-bein4_720/chunks.m3u8
 #EXTINF:-1,True sport 5
-rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi34
+http://27.254.150.7:1935/footballfuck/t5_360p/chunklist_w228254452.m3u8
 #EXTINF:-1,True sport 6
-rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi35
-#EXTINF:-1,True sporthd1
-rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi37
-#EXTINF:-1,True sporthd2
-rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi39
-#EXTINF:-1,True sporthd2
-rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi40
-#EXTINF:-1,True sporthd3
-rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi41
-#EXTINF:-1,True sporthd3
-rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi42
-#EXTINF:-1,True sporthd4
-rtmp://origintv.dyndns.org:1935/live/_definst_/hdmi43
+http://27.254.150.7:1935/footballfuck/t6_360p/chunklist_w1090214789.m3u8
+#EXTINF:-1,True sport 7
+http://27.254.150.7:1935/footballfuck/t7_360p/chunklist_w431548587.m3u8
 #EXTINF:-1,Bein Sport
 http://103.7.57.19:1935/goalclub/bein.stream/chunklist.m3u8
 #EXTINF:-1,Bein Sport
 http://27.254.150.7:1935/footballfuck/bein_720p/chunklist.m3u8
-#EXTINF:-1,Fox Sport1
-http://27.254.150.7:1935/footballfuck/fox1_720p/playlist.m3u8
-#EXTINF:-1,Fox Sport2
-http://27.254.150.7:1935/footballfuck/fox2_720p/playlist.m3u8
-#EXTINF:-1,True Sport HD2
-http://103.7.57.19:1935/goalclub/sporthd2.stream/chunklist.m3u8
-#EXTINF:-1,True Sport HD3
-http://103.7.57.19:1935/goalclub/sporthd3.stream/chunklist.m3u8
 #EXTINF:-1,True Sport HD2
 rtmp://216.185.103.158/live2/chthaipremier11
 #EXTINF:-1,True Sport HD3
 rtmp://216.185.103.158/live2/chthaipremier31
-#EXTINF:-1,Bien Sport 
-http://103.7.57.19:1935/goalclub/bein.stream/chunklist.m3u8
-#EXTINF:-1,Fox Thai
-http://tv01.thaizatv.com:1935/mobile/ft.stream/playlist.m3u8
 #EXTINF:-1,My Sci
 http://27.254.149.37:8082/Mysci/index.m3u8
 #EXTINF:-1,HBO Hit
