@@ -4,15 +4,15 @@ http://111.223.37.196:1935/thaitv3_HD/thaitv3_HD_1/playlist.m3u8
 #EXTINF:-1,Ch 5 HD
 http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w121663169_b1024000.m3u8
 #EXTINF:-1,Ch 7 HD
-http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/308091128717_600/chunklist_w1875765258.m3u8
+http://je7.bugaboo.tv/liveedgech7_partner/720p/playlist.m3u8
 #EXTINF:-1,Mcot HD
 http://lb-media.mcot.net:1935/9mcot_edge/9mcot.stream/playlist.m3u8
 #EXTINF:-1,TPBS  HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1,PPTV
+http://111.223.36.5/teleplus_pptvhd.m3u8?bandwidth=956
 #EXTINF:-1,MONO29
 http://solution01.stream.3bb.co.th:1935/MonoTV720/720p_th/chunklist_w1096387566.m3u8
-#EXTINF:-1,THAI PBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1,TNN 24
 http://edge2.psitv.tv:1935/liveedge/308360140120_600/chunklist_w1322924984.m3u8
 #EXTINF:-1,Ch 8
@@ -25,8 +25,6 @@ http://workpoint.radical-enlighten.com:1935/workpoint/_definst_/workpoint_720p/c
 http://61.19.18.237/live/m1.sdp/playlist.m3u8
 #EXTINF:-1,Thairath HD 
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1,PSI
-http://iptv-blue.mine.nu:1936/iptv/307043227480_600/chunklist_w238722544.m3u8
 #EXTINF:-1,Bein Sport 1
 http://streamer.u-play.tv:8081/uplay-3/epl-bein1_720/chunks.m3u8
 #EXTINF:-1,Bein Sport 2
@@ -35,16 +33,6 @@ http://streamer.u-play.tv:8081/uplay-3/epl-bein2_720/chunks.m3u8
 http://streamer.u-play.tv:8081/uplay-3/epl-bein3_720/chunks.m3u8
 #EXTINF:-1,Bein Sport 4
 http://streamer.u-play.tv:8081/uplay-3/epl-bein4_720/chunks.m3u8
-#EXTINF:-1,True sport 5
-http://27.254.150.7:1935/footballfuck/t5_360p/chunklist_w228254452.m3u8
-#EXTINF:-1,True sport 6
-http://27.254.150.7:1935/footballfuck/t6_360p/chunklist_w1090214789.m3u8
-#EXTINF:-1,True sport 7
-http://27.254.150.7:1935/footballfuck/t7_360p/chunklist_w431548587.m3u8
-#EXTINF:-1,Bein Sport
-http://103.7.57.19:1935/goalclub/bein.stream/chunklist.m3u8
-#EXTINF:-1,Bein Sport
-http://27.254.150.7:1935/footballfuck/bein_720p/chunklist.m3u8
 #EXTINF:-1,True Sport HD2
 rtmp://216.185.103.158/live2/chthaipremier11
 #EXTINF:-1,True Sport HD3
@@ -591,145 +579,3 @@ http://150.107.29.72/live/TFLM.m3u8
 http://150.107.29.72/live/ASER.m3u8
 #EXTINF:-1,Movies Hit
 http://150.107.29.72/live/MOVH.m3u8
-#EXTINF:-1,3 HD
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-ch3_720/playlist.m3u8
-#EXTINF:-1,5 HD
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-ch5_720/playlist.m3u8
-#EXTINF:-1,7 HD
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-ch7_720/playlist.m3u8
-#EXTINF:-1,Mcot HD
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-mcot_720/playlist.m3u8
-#EXTINF:-1,TPBS
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-tpbs_720/playlist.m3u8
-#EXTINF:-1,Work Point
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-workpoint_480/playlist.m3u8
-#EXTINF:-1,Mono29
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-mono_480/playlist.m3u8
-#EXTINF:-1,Thairath HD 
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-thairath_720/playlist.m3u8
-#EXTINF:-1,PPTV
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-pptv_720/playlist.m3u8
-#EXTINF:-1,CH 8
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-ch8_480/playlist.m3u8
-#EXTINF:-1,GMM
-http://kndstream-x.ilikehd.com:182/5-dvr1/sd-gmmchannel_480/playlist.m3u8
-#EXTINF:-1,TNN 24
-http://kndstream-x.ilikehd.com:182/5-dvr1/sd-tnn24_480/playlist.m3u8
-#EXTINF:-1,HBO HD
-http://kndstream3.ilikehd.com/edge-n1/hd-hbo_720/chunks.m3u8 
-#EXTINF:-1,HBO hit
-http://kndstream3.ilikehd.com/edge-n1/hd-hbohits_720/chunks.m3u8 
-#EXTINF:-1,HBO signature
-http://kndstream3.ilikehd.com/edge-n1/hd-hbosignature_720/chunks.m3u8 
-#EXTINF:-1,FOX ACTION
-http://kndstream3.ilikehd.com/edge-n1/hd-foxaction_720/chunks.m3u8 
-#EXTINF:-1,FOX PREMIUM
-http://kndstream3.ilikehd.com/edge-n1/hd-foxpremium_720/chunks.m3u8 
-#EXTINF:-1,FOX family
-http://kndstream3.ilikehd.com/edge-n1/hd-foxfamily_720/chunks.m3u8 
-#EXTINF:-1,Warner TV
-http://kndstream3.ilikehd.com/edge-n1/hd-warnertv_720/chunks.m3u8 
-#EXTINF:-1,AMC
-http://kndstream3.ilikehd.com/edge-n1/sd-amc_480/chunks.m3u8 
-#EXTINF:-1,Red
-http://kndstream3.ilikehd.com/edge-n1/hd-screenred_480/chunks.m3u8 
-#EXTINF:-1,FOX CRIME
-http://kndstream3.ilikehd.com/edge-n1/hd-foxcrime_720/chunks.m3u8 
-#EXTINF:-1,AXN
-http://kndstream3.ilikehd.com/edge-n1/hd-axn_720/chunks.m3u8 
-#EXTINF:-1,Hits
-http://kndstream3.ilikehd.com/edge-n1/sd-hits_480/chunks.m3u8 
-#EXTINF:-1,Starworld HD
-http://kndstream3.ilikehd.com/edge-n1/hd-starworld_720/chunks.m3u8 
-#EXTINF:-1,Sony
-http://kndstream3.ilikehd.com/edge-n1/sd-sony_480/chunks.m3u8 
-#EXTINF:-1,Series
-http://kndstream3.ilikehd.com/edge-n1/sd-series_480/chunks.m3u8 
-#EXTINF:-1,Fox thai
-http://kndstream3.ilikehd.com/edge-n1/sd-fox_480/chunks.m3u8 
-#EXTINF:-1,Film Asia
-http://kndstream3.ilikehd.com/edge-n1/sd-filmasia_480/chunks.m3u8 
-#EXTINF:-1,Thai film
-http://kndstream3.ilikehd.com/edge-n1/sd-thaifilm_480/chunks.m3u8 
-#EXTINF:-1,Kix
-http://kndstream3.ilikehd.com/edge-n1/sd-kix_480/chunks.m3u8 
-#EXTINF:-1,Thrill
-http://kndstream3.ilikehd.com/edge-n1/sd-thrill_480/chunks.m3u8 
-#EXTINF:-1,Asian series
-http://kndstream3.ilikehd.com/edge-n1/sd-asianseries_480/chunks.m3u8 
-#EXTINF:-1,HISTORY
-http://kndstream3.ilikehd.com/edge-n1/hd-history_720/chunks.m3u8 
-#EXTINF:-1,H2
-http://kndstream3.ilikehd.com/edge-n1/hd-history2_720/chunks.m3u8 
-#EXTINF:-1,DISCOVERY HD
-http://kndstream3.ilikehd.com/edge-n1/hd-discovery_720/chunks.m3u8 
-#EXTINF:-1,Discovery
-http://kndstream3.ilikehd.com/edge-n1/sd-discovery_480/chunks.m3u8 
-#EXTINF:-1,Discovery sci
-http://kndstream3.ilikehd.com/edge-n1/sd-discoveryscience_480/chunks.m3u8 
-#EXTINF:-1,National Geo
-http://kndstream3.ilikehd.com/edge-n1/hd-natgeo_720/chunks.m3u8 
-#EXTINF:-1,Explore 1
-http://kndstream3.ilikehd.com/edge-n1/sd-exp1_480/chunks.m3u8 
-#EXTINF:-1,Explore 2
-http://kndstream3.ilikehd.com/edge-n1/sd-exp2_480/chunks.m3u8 
-#EXTINF:-1,Animal planet
-http://kndstream3.ilikehd.com/edge-n1/sd-animalplanet_480/chunks.m3u8 
-#EXTINF:-1,TLC
-http://kndstream3.ilikehd.com/edge-n1/sd-tlc_480/chunks.m3u8 
-#EXTINF:-1,FYI
-http://kndstream3.ilikehd.com/edge-n1/sd-fyi_480/chunks.m3u8 
-#EXTINF:-1,Inside
-http://kndstream3.ilikehd.com/edge-n1/sd-inside_480/chunks.m3u8 
-#EXTINF:-1,CI
-http://kndstream3.ilikehd.com/edge-n1/hd-discovery_720/chunks.m3u8 
-#EXTINF:-1,Life time
-http://kndstream3.ilikehd.com/edge-n1/hd-lifetime_720/chunks.m3u8
-#EXTINF:-1,CTH1
-http://kndstream3.ilikehd.com/edge-n1/hd-arena1_720/chunks.m3u8
-#EXTINF:-1,CTH2
-http://kndstream3.ilikehd.com/edge-n1/hd-arena2_720/chunks.m3u8
-#EXTINF:-1,CTH3
-http://kndstream3.ilikehd.com/edge-n1/hd-arena3_720/chunks.m3u8
-#EXTINF:-1,CTH4
-http://kndstream3.ilikehd.com/edge-n1/hd-arena4_720/chunks.m3u8
-#EXTINF:-1,CTH5
-http://kndstream3.ilikehd.com/edge-n1/hd-arena5_720/chunks.m3u8
-#EXTINF:-1,CTHX
-http://kndstream3.ilikehd.com/edge-n1/hd-arenax_720/chunks.m3u8
-#EXTINF:-1,True sport1HD
-http://kndstream3.ilikehd.com/edge-n3/hd-tsport1_720/chunks.m3u8
-#EXTINF:-1,True sport2HD
-http://kndstream-x.ilikehd.com:182/edge-n1/hd-tsport2_720/playlist.m3u8
-#EXTINF:-1,True sport3HD
-http://kndstream-x.ilikehd.com:182/edge-n1/hd-tsport3_720/playlist.m3u8
-#EXTINF:-1,True sport4HD
-http://kndstream-x.ilikehd.com:182/edge-n1/hd-tsport4_720/playlist.m3u8
-#EXTINF:-1,Tennis HD
-http://kndstream-x.ilikehd.com:182/edge-n1/hd-tennis_720/playlist.m3u8
-#EXTINF:-1,Golf
-http://kndstream-x.ilikehd.com:182/5-dvr1/hd-golf_720/playlist.m3u8
-#EXTINF:-1,True sport 1
-http://kndstream-x.ilikehd.com:182/edge-n1/sd-tsport1_480/playlist.m3u8
-#EXTINF:-1,True sport 2
-http://kndstream-x.ilikehd.com:182/edge-n1/sd-tsport2_480/playlist.m3u8
-#EXTINF:-1,True sport 3
-http://kndstream-x.ilikehd.com:182/edge-n1/sd-tsport3_480/playlist.m3u8
-#EXTINF:-1,True sport 5
-http://kndstream-x.ilikehd.com:182/edge-n1/sd-tsport5_480/playlist.m3u8
-#EXTINF:-1,True sport 6
-http://kndstream-x.ilikehd.com:182/edge-n1/sd-tsport6_480/playlist.m3u8
-#EXTINF:-1,True sport 7
-http://kndstream-x.ilikehd.com:182/edge-n1/sd-tsport7_480/playlist.m3u8
-#EXTINF:-1,Cartoon network
-http://kndstream3.ilikehd.com/edge-n1/sd-cartoonnetwork_480/chunks.m3u8
-#EXTINF:-1,Disney channel
-http://kndstream3.ilikehd.com/edge-n1/sd-disney_480/chunks.m3u8
-#EXTINF:-1,Disneyxd
-http://kndstream3.ilikehd.com/edge-n1/hd-disneyxd_720/chunks.m3u8 
-#EXTINF:-1,Disney junior
-http://kndstream3.ilikehd.com/edge-n1/sd-disneyjunior_480/chunks.m3u8 
-#EXTINF:-1,Spark
-http://kndstream3.ilikehd.com/edge-n1/sd-spark_480/chunks.m3u8 
-#EXTINF:-1,Spark jump
-http://kndstream3.ilikehd.com/edge-n1/sd-toon_480/chunks.m3u8
