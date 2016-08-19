@@ -33,6 +33,14 @@ http://streamer.u-play.tv:8081/uplay-3/epl-bein2_720/chunks.m3u8
 http://streamer.u-play.tv:8081/uplay-3/epl-bein3_720/chunks.m3u8
 #EXTINF:-1,Bein Sport 4
 http://streamer.u-play.tv:8081/uplay-3/epl-bein4_720/chunks.m3u8
+#EXTINF:-1,Bein Sport 1
+http://150.107.29.243/bein1.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport 2
+http://150.107.29.243/bein2.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport 3
+http://150.107.29.243/bein3.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport 4
+http://150.107.29.243/bein4.stream/playlist.m3u8
 #EXTINF:-1,True Sport HD2
 rtmp://216.185.103.158/live2/chthaipremier11
 #EXTINF:-1,True Sport HD3
