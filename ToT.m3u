@@ -26,21 +26,27 @@ http://61.19.18.237/live/m1.sdp/playlist.m3u8
 #EXTINF:-1,Thairath HD 
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1,Bein Sport 1
-http://streamer.u-play.tv:8081/uplay-3/epl-bein1_720/chunks.m3u8
+http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein1hd/playlist.m3u8
 #EXTINF:-1,Bein Sport 2
-http://streamer.u-play.tv:8081/uplay-3/epl-bein2_720/chunks.m3u8
+http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein2hd/playlist.m3u8
 #EXTINF:-1,Bein Sport 3
-http://streamer.u-play.tv:8081/uplay-3/epl-bein3_720/chunks.m3u8
+http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein3hd/playlist.m3u8
 #EXTINF:-1,Bein Sport 4
-http://streamer.u-play.tv:8081/uplay-3/epl-bein4_720/chunks.m3u8
-#EXTINF:-1,Bein Sport 1
-http://150.107.29.243/bein1.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 2
-http://150.107.29.243/bein2.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 3
-http://150.107.29.243/bein3.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 4
-http://150.107.29.243/bein4.stream/playlist.m3u8
+http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein4hd/playlist.m3u8
+#EXTINF:-1,SkynetHD
+http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/skynet_sportshd/playlist.m3u8=
+#EXTINF:-1,Skynet1
+http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports1/playlist.m3u8
+#EXTINF:-1,Skynet2
+http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports2/playlist.m3u8
+#EXTINF:-1,Skynet3
+http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports3/playlist.m3u8
+#EXTINF:-1,Skynet4
+http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports4/playlist.m3u8
+#EXTINF:-1,Skynet5
+http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports5/playlist.m3u8
+#EXTINF:-1,Skynet6
+http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports6/playlist.m3u8
 #EXTINF:-1,True Sport HD2
 rtmp://216.185.103.158/live2/chthaipremier11
 #EXTINF:-1,True Sport HD3
