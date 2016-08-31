@@ -203,7 +203,7 @@ http://111.223.52.109:81/tot/c8233976dbba4a06a101780907447375.m3u8?token=fuck
 http://111.223.52.109:81/tot/1fd48f2cd616439ca4162478e572d681.m3u8?token=fuck
 #EXTINF:-1,Fox Sport 3
 http://111.223.52.109:81/tot/b254601a75724ad79e2633f3d307e331.m3u8?token=fuck
-#EXTINF:-1,Thai:3-SD
+#EXTINF:-1,3-SD
 http://111.223.48.100:9981/stream/channelid/696602945?ticket=C71D44C764E18BBB7A074C70919F0759A222122E&profile=pass
 #EXTINF:-1,CH3-HD
 http://111.223.52.109:81/tot/a4485b656d764f308c63b14a8bf62326.m3u8?token=fuck
@@ -213,7 +213,7 @@ http://111.223.48.100:9981/stream/channelid/1936412427?ticket=B9697A79DA6F023B4F
 http://a1.adintrend.com:443/live/ch3/i/ch3i.m3u8
 #EXTINF:-1,CH3-HD-SD
 http://111.223.48.100:9981/stream/channelid/144789095?ticket=A04DC2AB4B899C5FDAEAFD6A1853C5F0661B9468&profile=pass
-#EXTINF:-1,Thai:3-Family
+#EXTINF:-1,3-Family
 http://111.223.48.100:9981/stream/channelid/207591207?ticket=D4B401BF933CA00F748B81CDB5D4959F0D26D1E7&profile=pass
 #EXTINF:-1,TV5 HD1
 http://111.223.52.109:81/tot/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?token=fuck
