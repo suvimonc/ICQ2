@@ -120,7 +120,29 @@ http://111.223.52.109:81/tot/a2ca06da9478412e9501d968e31bbf75.m3u8?token=fuck
 #EXTINF:-1,Thai Station
 http://111.223.52.109:81/tot/768ab5caf16e44689c3a75e6a3f57b5c.m3u8?token=fuck
 #EXTINF:-1,GP Channel
-http://111.223.52.109:81/tot/e05107e8304b4d118c92b5dffa636715.m3u8?token=fuck
+http://111.223.52.109:81/tot/e05107e8304b4d118c92b5dffa636715.m3u8?token=fuck\
+#EXTINF:-1,New TV
+http://111.223.52.109:81/tot/0d01fdc1362f427ca5527c645f5f908f.m3u8?token=fuck
+#EXTINF:-1,Spring News
+http://111.223.52.109:81/tot/1ae0f87662c248d693d2eed30b698760.m3u8?token=fuck
+#EXTINF:-1,Voice TV
+http://111.223.52.109:81/tot/b29f0e7ada6348c6851bad32728a6ddb.m3u8?token=fuck
+#EXTINF:-1,Fah Won Mai
+http://111.223.52.109:81/tot/76221348029846b6a86cce2f76e60f82.m3u8?token=fuck
+#EXTINF:-1,Money Channel
+http://111.223.52.109:81/tot/f902199d513449e6a51ce477508b1246.m3u8?token=fuck
+#EXTINF:-1,Fan TV
+http://111.223.52.109:81/tot/345a4277dd864037b6b4fb5a562af59c.m3u8?token=fuck
+#EXTINF:-1,Sabaidee TV
+http://111.223.52.109:81/tot/b9bedb1b0539456dbc84542cf2ebca7b.m3u8?token=fuck
+#EXTINF:-1,MTV Asia
+http://111.223.52.109:81/tot/ebce2f5139c54eda8b111e5923af9c9e.m3u8?token=fuck
+#EXTINF:-1,T Sports
+http://111.223.52.109:81/tot/3ee1e656d6ae417a914743328d44f20f.m3u8?token=fuck
+#EXTINF:-1,SMM TV
+http://111.223.52.109:81/tot/48cac6380caf4f078eafccc63804ac23.m3u8?token=fuck
+#EXTINF:-1,MG TV
+http://111.223.52.109:81/tot/0518392dc56246e1808c211c796d5e84.m3u8?token=fuck
 #EXTINF:-1,Cartoon Club
 http://111.223.52.109:81/tot/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?token=fuck
 #EXTINF:-1,Gang Cartoon
@@ -203,158 +225,60 @@ http://111.223.52.109:81/tot/c8233976dbba4a06a101780907447375.m3u8?token=fuck
 http://111.223.52.109:81/tot/1fd48f2cd616439ca4162478e572d681.m3u8?token=fuck
 #EXTINF:-1,Fox Sport 3
 http://111.223.52.109:81/tot/b254601a75724ad79e2633f3d307e331.m3u8?token=fuck
-#EXTINF:-1,3-SD
-http://111.223.48.100:9981/stream/channelid/696602945?ticket=C71D44C764E18BBB7A074C70919F0759A222122E&profile=pass
 #EXTINF:-1,CH3-HD
 http://111.223.52.109:81/tot/a4485b656d764f308c63b14a8bf62326.m3u8?token=fuck
-#EXTINF:-1,CH3-HD
-http://111.223.48.100:9981/stream/channelid/1936412427?ticket=B9697A79DA6F023B4F1CB18B7C72A9AADEE5A233&profile=pass
 #EXTINF:-1,CH3-HD 
 http://a1.adintrend.com:443/live/ch3/i/ch3i.m3u8
-#EXTINF:-1,CH3-HD-SD
-http://111.223.48.100:9981/stream/channelid/144789095?ticket=A04DC2AB4B899C5FDAEAFD6A1853C5F0661B9468&profile=pass
-#EXTINF:-1,3-Family
-http://111.223.48.100:9981/stream/channelid/207591207?ticket=D4B401BF933CA00F748B81CDB5D4959F0D26D1E7&profile=pass
 #EXTINF:-1,TV5 HD1
 http://111.223.52.109:81/tot/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?token=fuck
-#EXTINF:-1,TV5 HD1
-http://111.223.48.100:9981/stream/channelid/1670301570?ticket=EA2AD7BC1CB62466132C172DEF3F00BE23F111B5&profile=pass
-#EXTINF:-1,TV5-HD1-SD
-http://111.223.48.100:9981/stream/channelid/738698166?ticket=1318EEC3EF7EBE6D3984A4D5B262CBD3AE8AC308&profile=pass
 #EXTINF:-1,CH7-HD
 http://111.223.52.109:81/tot/ddfa47e726444446864b14e0e819fdde.m3u8?token=fuck
-#EXTINF:-1,CH7-HD
-http://111.223.48.100:9981/stream/channelid/1869543982?ticket=04A5F3E1822D882FAE5D1CE7A2E4D98E63081B95&profile=pass
-#EXTINF:-1,CH7-HD
-http://111.223.48.100:9981/stream/channelid/835751368?ticket=9020BE3B226C40F13E0753CF64C2AF87819C1A4F&profile=pass
 #EXTINF:-1,CH8
 http://111.223.52.109:81/tot/15c52eeb21b748319771eb794a6cf242.m3u8?token=fuck
-#EXTINF:-1,CH8-HD
-http://111.223.48.100:9981/stream/channelid/655047171?ticket=B389CC11236664EBF1E6B7C73973910A7D76C39B&profile=pass
-#EXTINF:-1,CH8
-http://111.223.48.100:9981/stream/channelid/1269420644?ticket=EE4B4C931B3D337F0DB8D65079C8551D953981B2&profile=pass
-#EXTINF:-1,MCOT-Kids
-http://111.223.48.100:9981/stream/channelid/618669256?ticket=207F5B88C400EDC6D9F6D9C35BDB525DEACB3E26&profile=pass
 #EXTINF:-1,MCOT-HD
 http://111.223.52.109:81/tot/3ae2fd6ccaf6499e898de377ed74ea12.m3u8?token=fuck
-#EXTINF:-1,MCOT-HD
-http://111.223.48.100:9981/stream/channelid/2058034657?ticket=CF820C174D8C1341A459F931C27EF44C0D9A6BD9&profile=pass
 #EXTINF:-1,NBT
 http://111.223.52.109:81/tot/ce9a1585f45d4379970b95308df3f879.m3u8?token=fuck
-#EXTINF:-1,NBT
-http://111.223.48.100:9981/stream/channelid/412339217?ticket=7A268E4DD2849FFB1546597A41AEC938FF345E6A&profile=pass
 #EXTINF:-1,Thai PBS HD
 http://111.223.52.109:81/tot/d7182fae6e9f4d929bdb5ae06059bda8.m3u8?token=fuck
 #EXTINF:-1,Thai PBS HD  
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1,Thai PBS HD
-http://111.223.48.100:9981/stream/channelid/1370774890?ticket=1926743D52D60981C9025A97C5C2EA60A71DA81F&profile=pass
-#EXTINF:-1,Thai PBS HD
-http://111.223.48.100:9981/stream/channelid/1358553915?ticket=882BC8CC899665A3B01B741B38C7EFEAEB4E2971&profile=pass
-#EXTINF:-1,PSI-CHANNEL-HD
-http://111.223.48.100:9981/stream/channelid/1763602210?ticket=E532278A59770D3DE6659980FB13580326B1D67E&profile=pass
-#EXTINF:-1,PSI-CHANNEL
-http://111.223.48.100:9981/stream/channelid/125554700?ticket=928FBFAE57ECBBCB7D63D1A0F4D393881844B45A&profile=pass
-#EXTINF:-1.Workpoint-TV
-http://111.223.52.109:81/tot/a9a68ab5471d4d39ba25695a66957067.m3u8?token=fuck
-#EXTINF:-1,Workpoint-HD
-http://111.223.48.100:9981/stream/channelid/275512934?ticket=AAA2A0BFBEBB3084DB9F0A2EAFBE262A2DEFC391&profile=pass
 #EXTINF:-1,Workpoint-TV
-http://111.223.48.100:9981/stream/channelid/1025854294?ticket=E827CC8C2D7406E3BDE440F6B6EC686F109E958A&profile=pass
+http://111.223.52.109:81/tot/a9a68ab5471d4d39ba25695a66957067.m3u8?token=fuck
 #EXTINF:-1,Thairath-TV-HD
 http://111.223.52.109:81/tot/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8?token=fuck
-#EXTINF:-1,hairath-TV-HD
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1,Thairath-TV-HD
-http://111.223.48.100:9981/stream/channelid/418289508?ticket=6CC33B86F714F028E0D942F42927673DC266B78D&profile=pass
-#EXTINF:-1,Thairath-TV
-http://111.223.48.100:9981/stream/channelid/1697517451?ticket=1EF36E179BCAEB5A0956E9FD748BFE0590AC2CA3&profile=pass
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1,PPTV-HD
 http://111.223.52.109:81/tot/623d009180394c528880c14e2254452a.m3u8?token=fuck
 #EXTINF:-1,PPTV-HD
-http://111.223.48.100:9981/stream/channelid/507697430?ticket=C0EADBDCD495D860DB009250B3FE49A72603F43C&profile=pass
-#EXTINF:-1,PPTV-HD
-http://111.223.48.100:9981/stream/channelid/228222882?ticket=91AFE13CDEC4818621348E3D80CE0AF9025FB2DB&profile=pass
-#EXTINF:-1,True 4U
-http://111.223.48.100:9981/stream/channelid/1705431799?ticket=3B50C93BF5E3336A09CD7F2510E1F017FE2CA390&profile=pass
-#EXTINF:-1,True 4U 
-http://111.223.48.100:9981/stream/channelid/853059435?ticket=279C10FB8074C4DE39280988ED7A3366A5B08D88&profile=pass
 #EXTINF:-1,True 4U  
 http://a1.adintrend.com:443/live/ch23/i/ch23i.m3u8
 #EXTINF:-1,ONE-HD
 http://111.223.52.109:81/tot/7e069540a35942e89245865a84add64a.m3u8?token=fuck
-#EXTINF:-1,ONE-HD
-http://111.223.48.100:9981/stream/channelid/982348872?ticket=8193E0D600E8AA8E3FC01938A32B696D9B0AE427&profile=pass
-#EXTINF:-1,ONE-HD
-http://111.223.48.100:9981/stream/channelid/1974914414?ticket=64988077F224809901DEF72311AB4A554B29E1A4&profile=pass
-#EXTINF:-1,GMM25
-http://111.223.48.100:9981/stream/channelid/1114211296?ticket=AC3CA5070337BB74994044AD5B0D5FB197899AA6&profile=pass
-#EXTINF:-1,Mono29
-http://111.223.48.100:9981/stream/channelid/1153508901?ticket=60F471A00706B5E1202D27122353D676744D52B3&profile=pass
 #EXTINF:-1,Mono-Plus
 http://111.223.52.109:81/tot/9623847065ba466e90632cf686fade0b.m3u8?token=fuck
-#EXTINF:-1,Mono-Plus
-http://111.223.48.100:9981/stream/channelid/1708275548?ticket=3171084E73D4D42D42F848E72A6985EB0E2FEAB3&profile=pass
 #EXTINF:-1,New-TV
 http://111.223.52.109:81/tot/0d01fdc1362f427ca5527c645f5f908f.m3u8?token=fuck
-#EXTINF:-1,New-TV
-http://111.223.48.100:9981/stream/channelid/952148040?ticket=9A194DC9FDAFA2FE660862A5ABECECBDB976DE6B&profile=pass
-#EXTINF:-1,New-TV
-http://111.223.48.100:9981/stream/channelid/939764606?ticket=73FEB2B8FA5020186025C839B0EE017CBCCCFAD7&profile=pass
 #EXTINF:-1,Amarin-TV-HD
 http://111.223.52.109:81/tot/78f57ebcf6064b308d75208a20756983.m3u8?token=fuck
-#EXTINF:-1,Amarin-TV-HD
-http://111.223.48.100:9981/stream/channelid/1434446996?ticket=AA43AB30095FA6FC7B7840F911757312B17D8013&profile=pass
-#EXTINF:-1,Amarin-TV-HD-SD
-http://111.223.48.100:9981/stream/channelid/1831528061?ticket=99ADB429BDC26AF1232EDC3F50FEAD467A031823&profile=pass
 #EXTINF:-1,Now26
 http://111.223.52.109:81/tot/732ace1b4983472097eedb0d415dc231.m3u8?token=fuck
 #EXTINF:-1,Now26
-http://111.223.48.100:9981/stream/channelid/1294924282?ticket=099AC64598A2D7FE5CB94BEA0DF99D76FA06BCCA&profile=pass
-#EXTINF:-1,BRIGHT-TV
-http://111.223.48.100:9981/stream/channelid/1311157997?ticket=9C210950854CEACF670BDE0098CB26E582C0CADF&profile=pass
 #EXTINF:-1,TNN24
 http://111.223.52.109:81/tot/77774220bb8e40aa94e549e29ff3ed8a.m3u8?token=fuck
-#EXTINF:-1,Voice-TV
-http://111.223.48.100:9981/stream/channelid/2050118791?ticket=EA2A244D3220ADD02BCE5F731442942C52993DE7&profile=pass
 #EXTINF:-1,Nation-TV
 http://111.223.52.109:81/tot/a5b25476119b46f5b5a34d56f7d1156c.m3u8?token=fuck
-#EXTINF:-1,Nation-TV
-http://111.223.48.100:9981/stream/channelid/1675454070?ticket=727524C222E5BE047804175A10C6C5A0B4B3E01B&profile=pass
-#EXTINF:-1,Thai:Nation-TV
-http://111.223.48.100:9981/stream/channelid/2016825258?ticket=795E93AB850B4E108CB44FE7F1D9CBF98ECC65EC&profile=pass
-#EXTINF:-1, Thai:Spring-News
-http://111.223.48.100:9981/stream/channelid/1402837775?ticket=D375C5375EFB19EB5EA29B98FBEEB7D7D900B861&profile=pass
-#EXTINF:-1,Thai:TNN2
-http://111.223.48.100:9981/stream/channelid/1806994076?ticket=41C2603FA60FAC19739816C9D49E573297CC928C&profile=pass
-#EXTINF:-1,PLOOK
-http://111.223.48.100:9981/stream/channelid/240130777?ticket=BB292B242713EDD8746EC699140D1027DE64C966&profile=pass
-#EXTINF:-1,TSEL
-http://111.223.48.100:9981/stream/channelid/1092036907?ticket=B2CC19D671255C122E0C6059CB6205334A891E52&profile=pass
-#EXTINF:-1,REAL
-http://111.223.48.100:9981/stream/channelid/803102156?ticket=CD13364FE2FBEB408D436E5C97CD2D3B4B6290F0&profile=pass
-#EXTINF:-1,INSE
-http://111.223.48.100:9981/stream/channelid/1483321156?ticket=6A828BFCAEF5F37ECAF010F8715514B37F8777E5&profile=pass
-#EXTINF:-1,TPTV
-http://111.223.48.100:9981/stream/channelid/1169369271?ticket=2F3CF120937915F192746FBDFE401D45D6924155&profile=pass
 #EXTINF:-1,LOCA
 http://111.223.52.109:81/tot/80aad4dd6e424c14921832300c74a202.m3u8?token=fuck
 #EXTINF:-1,DLTV 1
 http://111.223.52.109:81/tot/f128d0ea3136406d9c1cc7db91db03da.m3u8?token=fuck
-#EXTINF:-1,SHOPPING-CHANNEL
-http://111.223.48.100:9981/stream/channelid/1300877219?ticket=547EE071D7BA8C35765EE00CF14A4C2116230AD8&profile=pass
 #EXTINF:-1,Fox Thai
 http://111.223.52.109:81/tot/63cbfb466fe644dda11a8e109611a5cd.m3u8?token=fuck
 #EXTINF:-1,M Channel
 http://111.223.52.109:81/tot/97f3052bec96482584c5de84dda0d745.m3u8?token=fuck
-#EXTINF:-1,M Channel
-http://111.223.48.100:9981/stream/channelid/628311958?ticket=2AD90E0A98FB8C5EACE07ABBA39916E2782E37C2&profile=pass
-#EXTINF:-1,M-CHANNELTV
-http://111.223.48.100:9981/stream/channelid/1025216411?ticket=86C499C3FA0D019B49A0AF799A04CA3A6479B62B&profile=pass
 #EXTINF:-1,JKN
 http://111.223.52.109:81/tot/fc8195dc989240348772d00dd9eba3d0.m3u8?token=fuck
-#EXTINF:-1,JKN
-http://111.223.48.100:9981/stream/channelid/1253308213?ticket=C5B54F36DCF8715B12E5D0D5B0E3C34D862B4ED8&profile=pass
 #EXTINF:-1,Media Corp
 http://111.223.52.109:81/tot/018d9f65365a4744b2c8222ca1d54be9.m3u8?token=fuck
 #EXTINF:-1,Mongkol Channel
@@ -373,358 +297,73 @@ rtmp://103.40.138.89:1935/live/ac2
 rtmp://103.40.138.89:1935/live/ac4
 #EXTINF:-,Fox Thai
 http://111.223.52.109:81/tot/63cbfb466fe644dda11a8e109611a5cd.m3u8?token=fuck
-#EXTINF:-1,Fox Thai
-http://111.223.48.100:9981/stream/channelid/1826967040?ticket=8547707EC6B1372290BDDEEFB337AF5642C1B4BF&profile=pass
-#EXTINF:-1,TFLM
-http://111.223.48.100:9981/stream/channelid/2139432455?ticket=8432B558ED873EE8C1966F0FB1C86126771CDE57&profile=pass
-#EXTINF:-1,FL-A
-http://111.223.48.100:9981/stream/channelid/129099022?ticket=B395877E7CA92C44F7B75001A345F27C9B30960E&profile=pass
-#EXTINF:-1,ASER
-http://111.223.48.100:9981/stream/channelid/554665836?ticket=D30027AC381FCA30BCDB71220DDC893A39BB33DF&profile=pass
-#EXTINF:-1,ASIAN-MOVIES
-http://111.223.48.100:9981/stream/channelid/291986988?ticket=E8CFECD1F1E1CDAA1BEDCCD316519814B3197831&profile=pass
-#EXTINF:-1,MOVH
-http://111.223.48.100:9981/stream/channelid/25964174?ticket=371FDC10510B6AB73A10EABB4A4BB38E44EF4E3B&profile=pass
-#EXTINF:-1,KNOW-SRES
-http://111.223.48.100:9981/stream/channelid/2049518050?ticket=EC045BEB5FF2EA7590D8DA4EA8C75AD02529E04B&profile=pass
-#EXTINF:-1,KNOW-XZYT
-http://111.223.48.100:9981/stream/channelid/1205961323?ticket=3F24DAF089A019436D40998B13D3E3F6DC23ED29&profile=pass
-#EXTINF:-1,KBS-WORLD
-http://111.223.48.100:9981/stream/channelid/1266803927?ticket=704E02543F0675E76F78EB5276D632CE63D412BF&profile=pass
-#EXTINF:-1,KBS-WORLD
-http://111.223.48.100:9981/stream/channelid/110848949?ticket=9B12EB3C07841124D4F059D21F5609819E47140F&profile=pass
-#EXTINF:-1,ARIRANG
-http://111.223.48.100:9981/stream/channelid/1917162038?ticket=0CF8FF2632262E1611B05BC2B101310118C20256&profile=pass
-#EXTINF:-1,NHK-WORLD-PREMIUM
-http://111.223.48.100:9981/stream/channelid/1254916186?ticket=03E083B3C802CAAEBB02877BE90913ED4060714C&profile=pass
-#EXTINF:-1,HBO-HD
-http://111.223.48.100:9981/stream/channelid/1449423134?ticket=1CEFE9B45060F06FEC5096B68886FDA91FCF05E2&profile=pass
-#EXTINF:-1,HBO
-http://111.223.48.100:9981/stream/channelid/1523966876?ticket=BD08A9DFBDC8615A2169132FD931B10FE5779348&profile=pass
-#EXTINF:-1,RED
-http://111.223.48.100:9981/stream/channelid/1068665283?ticket=3D552CE41F61F1EA0AC247A6CB93B6B919230BC1&profile=pass
-#EXTINF:-1,SUN-TV
-http://111.223.48.100:9981/stream/channelid/1505744416?ticket=5A84615590F1B0307C1D82265EBCD63CB7591D30&profile=pass
-#EXTINF:-1,FOX-FAMILY-MOVIES
-http://111.223.48.100:9981/stream/channelid/1491414418?ticket=ADFD8872BE770409E74D42B33D65D6EE781C0F49&profile=pass
 #EXTINF:-1,FOX-ACTION-MOVIES HD
 http://111.223.52.109:81/tot/206105b34a1c44b886c6cd3c59105803.m3u8?token=fuck
 #EXTINF:-1,FOX-ACTION-MOVIES HD
 http://111.223.52.109:81/tot/6744e98748214c32912a46d1c7277d55.m3u8?token=fuck
-#EXTINF:-1,FOX-ACTION-MOVIES HD
-http://111.223.48.100:9981/stream/channelid/498741259?ticket=D9E4001987A2B931628E158D125326775F702649&profile=pass
-#EXTINF:-1,FOX-MOVIES-PREMIUM
-http://111.223.48.100:9981/stream/channelid/2098282143?ticket=E5C36A5CDF3B5F60EB042952CF2E4423D07AA37F&profile=pass
 #EXTINF:-1,FoxCrim HD
 http://111.223.52.109:81/tot/5028f7ff1d1b4d5f8189690233364737.m3u8?token=fuck
-#EXTINF:-1,FoxCrim HD
-http://111.223.48.100:9981/stream/channelid/1092886870?ticket=A4CF6BDD17C4459908A19BD6AD46FEC3238A6016&profile=pass
 #EXTINF:-1,FX Cinema
 http://111.223.52.109:81/tot/2e0e4b05aa6e428593f3b45b710045b7.m3u8?token=fuck
-#EXTINF:-1,FX Cinema
-http://111.223.48.100:9981/stream/channelid/2140998905?ticket=5AC5D4F9135A0759F404379CC82106348B1896E5&profile=pass
-#EXTINF:-1,CINEMAX
-http://111.223.48.100:9981/stream/channelid/927190561?ticket=0A595994A4AB1D0F8EE663B20DB4C14BF5F65C72&profile=pass
 #EXTINF:-1,Universal Channel
 http://111.223.52.109:81/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?token=fuck
-#EXTINF:-1,Universal Channe
-http://111.223.48.100:9981/stream/channelid/140412815?ticket=9509551365C3EB4D5091C40923F26E7421291736&profile=pass
 #EXTINF:-1,StarWorld HD
 http://111.223.52.109:81/tot/65f7358b813048a0898f5677e1793cf9.m3u8?token=fuck
-#EXTINF:-1,StarWorld HD
-http://111.223.48.100:9981/stream/channelid/2032140481?ticket=E1E0DB5DD3A2E39520949566F83F2DCCAA33CC9E&profile=pass
-#EXTINF:-1,AXN
-http://111.223.48.100:9981/stream/channelid/676832804?ticket=F0C15BFEF6BF8DA36088EF69A22D3FED1F344E8B&profile=pass
 #EXTINF:-1,KIX
 http://111.223.52.109:81/tot/e584e0adae6440eab366f5fe3a824f91.m3u8?token=fuck
 #EXTINF:-1,SYFY
 http://111.223.52.109:81/tot/71f197de056e499a85265c03b44bdab1.m3u8?token=fuck
 #EXTINF:-1,Thrill
 http://111.223.52.109:81/tot/c316ed9333e54442b25077f0bb3cc269.m3u8?token=fuck
-#EXTINF:-1,WORLD-MOVIES
-http://111.223.48.100:9981/stream/channelid/2036435304?ticket=49B52F2E7C022CB114CA04C98D1AB8501B3DA074&profile=pass
-#EXTINF:-1,WORLD-DRAMA
-http://111.223.48.100:9981/stream/channelid/1881061272?ticket=3F9D1896855ACB293639F6664C295C50833A8AF5&profile=pass
 #EXTINF:-1,Celestial Classic Movies
 http://111.223.52.109:81/tot/1c2276a2f1884b269ce281c3334e8f85.m3u8?token=fuck
 #EXTINF:-1,STAR Chinese Movies Legend
 http://111.223.52.109:81/tot/c8233976dbba4a06a101780907447375.m3u8?token=fuck
 #EXTINF:-1,Star Chinese Movies
 http://111.223.52.109:81/tot/29a09591a6604ff3b798cd7ef809e4bd.m3u8?token=fuck
-#EXTINF:-1,Thai:Star Chinese Movies
-http://111.223.48.100:9981/stream/channelid/1623247685?ticket=27E905C0B69FAF052FD487C641D0C181D8807784&profile=pass
-#EXTINF:-1,SKYNET-MOVIES-HD
-http://111.223.48.100:9981/stream/channelid/1285461390?ticket=A43D33344FB29C390F7E59BF0603270D02B1509C&profile=pass
-#EXTINF:-1,CNAI
-http://111.223.48.100:9981/stream/channelid/1747447579?ticket=21B754E7A0963B5422897CD9726CBBEF76F16E5F&profile=pass
-#EXTINF:-1,ZEE-TV
-http://111.223.48.100:9981/stream/channelid/1310195375?ticket=8D850217A3DC8DC46DDEB190DA607EF7356CF377&profile=pass
 #EXTINF:-1 ,Comedy Central HD
 http://111.223.52.109:81/tot/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?token=fuck
-#EXTINF:-1,INTERNATIONAL-DRAMA
-http://111.223.48.100:9981/stream/channelid/1051003182?ticket=F6C4C15BF2F6494765434EA19ECDBAA9CD59908A&profile=pass
-#EXTINF:-1,M
-http://111.223.48.100:9981/stream/channelid/330343443?ticket=F21BD516369EF3E694702238872BAD8AE1847CDE&profile=pass
 #EXTINF:-1,MGTV
 http://111.223.52.109:81/tot/0518392dc56246e1808c211c796d5e84.m3u8?token=fuck
 #EXTINF:-1,CCTV-4
 http://111.223.52.109:81/tot/5289381709e64f8db14a4ed75ab2b59f.m3u8?token=fuck
-#EXTINF:-1,CCTV-4
-http://111.223.48.100:9981/stream/channelid/1533779398?ticket=FF55CDB2411A2A7CF99A4985DD7B3910F8D5CAFA&profile=pass
-#EXTINF:-1,MTV-LIVE-HD
-http://111.223.48.100:9981/stream/channelid/1196445065?ticket=73731659773F4FED7C29D1735A88C08A36F9E1D7&profile=pass
-#EXTINF:-1,SKYNET-HD-PAY-PER-VIEW
-http://111.223.48.100:9981/stream/channelid/2107523507?ticket=11EEF84E50A5F39B852544706E1D4799B206142E&profile=pass
-#EXTINF:-1,HLUTTAW
-http://111.223.48.100:9981/stream/channelid/910760964?ticket=8B754F88A7E7C38420CF8BF8344D4146D35917C0&profile=pass
-#EXTINF:-1,ITV-CHOICE
-http://111.223.48.100:9981/stream/channelid/453195356?ticket=0D0D0CA0CC1E73EE30526B4A8F48D851E39C44E4&profile=pass
-#EXTINF:-1,GLOBALNET
-http://111.223.48.100:9981/stream/channelid/1966080874?ticket=2646B7530D816A9E8A1E2F272A431E26A9D07EDD&profile=pass
-#EXTINF:-1,UP-TO-DATE
-http://111.223.48.100:9981/stream/channelid/384332240?ticket=09F52C46B3D130B1C3F10E2CEA31C8761222B6F7&profile=pass
-#EXTINF:-1,COMEDY-CENTRAL
-http://111.223.48.100:9981/stream/channelid/1195586486?ticket=77E17ACC2E60B7402FD82DE2A16F2B8F190707B4&profile=pass
-#EXTINF:-1,BBC-ENTERTAINMENT
-http://111.223.48.100:9981/stream/channelid/1186269811?ticket=1B10DC125AFCC36FCA48AD79E0CF346F13180CE4&profile=pass
-#EXTINF:-,BBC-CBEEBIES
-http://111.223.48.100:9981/stream/channelid/235939297?ticket=6FEC9DF5C90943158C2780E6DFBF4723CF1E2D58&profile=pass
-#EXTINF:-1,NICKELODEON
-http://111.223.48.100:9981/stream/channelid/1699886986?ticket=645D1D98F442F94648D1DEDC12E45BDED2A91D02&profile=pass
-#EXTINF:-1,HADAYA
-http://111.223.48.100:9981/stream/channelid/1761311386?ticket=74443224BC476ADDD3F168FE28F2D79AE67FF350&profile=pass
-#EXTINF:-1,MYANMAR-MOVIES
-http://111.223.48.100:9981/stream/channelid/1395512676?ticket=564BAE22FB2F2EF6850F051321774A0C8C1F3EF8&profile=pass
-#EXTINF:-1,MYANMAR-ARTS
-http://111.223.48.100:9981/stream/channelid/426524170?ticket=4C29C6B23679A43FFE43A0D5E057BC38AF678873&profile=pass
-#EXTINF:-1,ZEE-CINEMA-ME
-http://111.223.48.100:9981/stream/channelid/2127032051?ticket=7D5E792C167D69789431E3AD72DA48921F3D9CFB&profile=pass
-#EXTINF:-1,SKYNET-TEEN
-http://111.223.48.100:9981/stream/channelid/996682345?ticket=15848998FDA2F6EAC2382AF00F7922AD65591589&profile=pass
-#EXTINF:-1,ZING
-http://111.223.48.100:9981/stream/channelid/259607269?ticket=4258E6864C174D7C70A131F4EB91A14427560F34&profile=pass
-#EXTINF:-1,FASHION-ONE
-http://111.223.48.100:9981/stream/channelid/1262311177?ticket=2E0F0F9DACA1F299442B059A8C99CC267D9266E6&profile=pass
-#EXTINF:-1,SPK-JUMP
-http://111.223.48.100:9981/stream/channelid/1525675172?ticket=3EBF49C00051DAB8A31DE4A2BC663DCA3C4A1E1F&profile=pass
-#EXTINF:-1,SPK-PLAY
-http://111.223.48.100:9981/stream/channelid/564514827?ticket=69976815ED6B10A72C83818578BD4423956B7CC1&profile=pass
 #EXTINF:-1,Cartoon-Club
 http://111.223.52.109:81/tot/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?token=fuck
-#EXTINF:-1,Cartoon-Club
-http://111.223.48.100:9981/stream/channelid/356733503?ticket=D3B3E70751AC0F743564C1D30EABD7FD88821413&profile=pass
-#EXTINF:-1,Cartoon-Club
-http://111.223.48.100:9981/stream/channelid/682728847?ticket=7A536043B6248CAC9971D793E688012140B88DFD&profile=pass
 #EXTINF:-1,Gang Cartoon
 http://111.223.52.109:81/tot/7299670a140849a9aaf946b0302ad886.m3u8?token=fuck
-#EXTINF:-1,Gang Cartoon
-http://111.223.48.100:9981/stream/channelid/712705147?ticket=D96D8145E8BAC5FB51F79457594BE092162DD99C&profile=pass
-#EXTINF:-1,CARTOON-NETWORK
-http://111.223.48.100:9981/stream/channelid/527793957?ticket=594C7EFED4EB5EC06BD93DE37524FFDF29C12C78&profile=pass
 #EXTINF:-1,Boomerang
 http://111.223.52.109:81/tot/06c02432266f4f42b48947e075de38c5.m3u8?token=fuck
-#EXTINF:-1,Boomerang
-http://111.223.48.100:9981/stream/channelid/1842423914?ticket=48796055B605044E007A66F643E7131928FD535A&profile=pass
-#EXTINF:-1,Toonami
-http://111.223.48.100:9981/stream/channelid/820832567?ticket=14E8011A47A272F0D101AEE40598FDD5C9462B1A&profile=pass
-#EXTINF:-1,JA-TING-JA
-http://111.223.48.100:9981/stream/channelid/322749028?ticket=A27376360C415D6B5F39657A9E7A2D61E33F5CF7&profile=pass
 #EXTINF:-1,Baby TV
 http://111.223.52.109:81/tot/7773f3cef0334a28ad248552ea63d9e7.m3u8?token=fuck
-#EXTINF:-1,Baby TV
-http://111.223.48.100:9981/stream/channelid/1825862741?ticket=D6807C5F2BECCF4D236C6A3701424E237CEAB43C&profile=pass
 #EXTINF:-1,Nick JR
 http://111.223.52.109:81/tot/2b72986be9314c139db95f6098d1c413.m3u8?token=fuck
-#EXTINF:-1,Nick JR
-http://111.223.48.100:9981/stream/channelid/1497431742?ticket=85BEA477F0D900A32D71BDC19937B46A0686EB36&profile=pass
-#EXTINF:-1,ANIMAX
-http://111.223.48.100:9981/stream/channelid/4795598?ticket=77469A2F07FD7E416BA4EA9A45FDD3250CDE770F&profile=pass
-#EXTINF:-1,Disn
-http://111.223.48.100:9981/stream/channelid/1295642105?ticket=11376EBE7824758CEEB4B2B7B196EB91ADFE373C&profile=pass
-#EXTINF:-1,DISNEY-XD
-http://111.223.48.100:9981/stream/channelid/1870754222?ticket=6130450AC73DE1FFA11F3E3B0E66A4F47D3C1466&profile=pass
-#EXTINF:-1,DISCOVERY-KIDS
-http://111.223.48.100:9981/stream/channelid/1708168731?ticket=97C9AE10BB5729ED97699B1BE234E5D2D764488F&profile=pass
-#EXTINF:-1,DISNEY-CHANNEL-ASIA
-http://111.223.48.100:9981/stream/channelid/1745885085?ticket=DC3E053B0518D1574128103049ECF5F180B49ECE&profile=pass
-#EXTINF:-1,DISNEY-JUNIOR-ASIA
-http://111.223.48.100:9981/stream/channelid/83159596?ticket=1D8B56E4EEFAA4748172B3A98D36ED997650680D&profile=pass
-#EXTINF:-1,SKYNET-CARTOON
-http://111.223.48.100:9981/stream/channelid/45136962?ticket=59EB461D6C398E62428F75EE218974B82D76006C&profile=pass
-#EXTINF:-1,RAMA
-http://111.223.48.100:9981/stream/channelid/365698614?ticket=C588959E1FF3602F589561E6355FF54EB3DA335D&profile=pass
-#EXTINF:-,SME
-http://111.223.48.100:9981/stream/channelid/83815489?ticket=6B73113564D44DAF3E2570874B8F479EB9476811&profile=pass
-#EXTINF:-1,TTCH
-http://111.223.48.100:9981/stream/channelid/881811532?ticket=FB0DA6E54FC70A354C2F244812DCD9BB6AC091B0&profile=pass
-#EXTINF:-1,VERY
-http://111.223.48.100:9981/stream/channelid/200508911?ticket=1932986DAFC855DC7126DB22F1CDCCEBACC95358&profile=pass
-#EXTINF:-1,TRAV
-http://111.223.48.100:9981/stream/channelid/2118418151?ticket=DD59F89122C8353FFAD35377CB2E51697451FE8E&profile=pass
-#EXTINF:-1,HFC
-http://111.223.48.100:9981/stream/channelid/75896011?ticket=9077B53EE0DF826B1C249B59FA5EC23A77EEA1C4&profile=pass
-#EXTINF:-1,ANIMAL-PLANET
-http://111.223.48.100:9981/stream/channelid/1481702073?ticket=20C9EC41311149B7174B32BA405C3DCEF375C0CF&profile=pass
-#EXTINF:-1,:EXPWILD
-http://111.223.48.100:9981/stream/channelid/1880406067?ticket=2115D8C5029BBCB6713FA0BBBA3F8E63ACAE5C26&profile=pass
-#EXTINF:-1,EXPLIFE
-http://111.223.48.100:9981/stream/channelid/369088600?ticket=DF8E58BD9C131AE9F32D3185CDC570E4F8F102AE&profile=pass
-#EXTINF:-1,EXPSCI
-http://111.223.48.100:9981/stream/channelid/881051525?ticket=9396444D9BBE2BF1F9F590C413457566A9E90F03&profile=pass
-#EXTINF:-1,HISTORY-HD
-http://111.223.48.100:9981/stream/channelid/510821043?ticket=C12CD103DBA0B40E2464A22923AF744A64328EF3&profile=pass
-#EXTINF:-1,H2
-http://111.223.48.100:9981/stream/channelid/1014765137?ticket=452D2FB6C227FA7ABF672686DC765182F5E74C04&profile=pass
-#EXTINF:-1,LIFETIME
-http://111.223.48.100:9981/stream/channelid/1562020739?ticket=5F5E1ED369473B2FC57BCE88DBBA81DF718CD95F&profile=pass
-#EXTINF:-1,GOLDA-TLC
-http://111.223.48.100:9981/stream/channelid/1864236294?ticket=EB9B3D76BE54442F73649F3AC32CD0000C4008FF&profile=pass
-#EXTINF:-1,DISCOVERY-TLC
-http://111.223.48.100:9981/stream/channelid/499242645?ticket=983662740F038BA341AA44318C3D6C6B9D7F11F5&profile=pass
-#EXTINF:-1,DISCOVERY
-http://111.223.48.100:9981/stream/channelid/278135977?ticket=A660BB62621310B75B694AC6177E702A5617A459&profile=pass
-#EXTINF:-1,DISCOVERY-HD-WORLD
-http://111.223.48.100:9981/stream/channelid/1220210781?ticket=EB5C6CF1E0BB87D785173393507DB57BC16822E9&profile=pass
-#EXTINF:-1,DISCOVERY-SCIENCE
-http://111.223.48.100:9981/stream/channelid/1988359567?ticket=98DE52F4DC7EB27921134229070E26D9BF4568EB&profile=pass
-#EXTINF:-,DMAX
-http://111.223.48.100:9981/stream/channelid/422576630?ticket=6318FE387C8A40D1399A7DE4AFAF769444FBC6FC&profile=pass
 #EXTINF:-1,NAT Geo Wild HD
 http://111.223.52.109:81/tot/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?token=fuck
-#EXTINF:-1,NAT Geo Wild HD
-http://111.223.48.100:9981/stream/channelid/1693580354?ticket=D8D03B7263CAAD23732CF869E52941760D374DE6&profile=pass
-#EXTINF:-1,NGC
-http://111.223.48.100:9981/stream/channelid/220382574?ticket=4D35A44AB668BE92416796435B969AD82DE668FC&profile=pass
 #EXTINF:-1,NAT Geo Peple
 http://111.223.52.109:81/tot/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?token=fuck
-#EXTINF:-1,NAT Geo Peple
-http://111.223.48.100:9981/stream/channelid/867205383?ticket=F83C05D141B112D8A5A490077B6D232B744B72DE&profile=pass
 #EXTINF:-1,FYI
 http://111.223.52.109:81/tot/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?token=fuck
-#EXTINF:-1,FYI
-http://111.223.48.100:9981/stream/channelid/897946408?ticket=0B88A34E7847E146A24F480CF888B057E01C3457&profile=pass
 #EXTINF:-1,CI
 http://111.223.52.109:81/tot/9961a963920f45f4bc0d81c3e478b334.m3u8?token=fuck
-#EXTINF:-1,CI
-http://111.223.48.100:9981/stream/channelid/96189580?ticket=A1633305C6536431B9F9BDCFDEE379C517707F5F&profile=pass
 #EXTINF:-1,CCTV9 Documentary
 http://111.223.52.109:81/tot/b08a8052e6724bedba5399f662715ad1.m3u8?token=fuck
-#EXTINF:-1 ,CCTV9 Documentary
-http://111.223.48.100:9981/stream/channelid/397473207?ticket=4B11A2921F9C58CD8E4AC9EB01F43BB57A7AEC82&profile=pass
-#EXTINF:-1,EVE
-http://111.223.48.100:9981/stream/channelid/1456203658?ticket=7D7BC55AAE0BB0B6723F7AEBE595F6195B0DCA49&profile=pass
-#EXTINF:-1,DIVA-UNIVERSAL
-http://111.223.48.100:9981/stream/channelid/2006398423?ticket=936508E2A339EF52D7EAFC306FA50B33B37A6E13&profile=pass
-#EXTINF:-1,E!
-http://111.223.48.100:9981/stream/channelid/1999573817?ticket=219BEC15A46ADE816F5AA706F856114493591B5F&profile=pass
-#EXTINF:-1,SKYNET-KNOWLEDGE
-http://111.223.48.100:9981/stream/channelid/737725106?ticket=07C76D7806DFD524A25A6C7D05DFBEC2DC431835&profile=pass
-#EXTINF:-1,EDUCATION-CHANNEL
-http://111.223.48.100:9981/stream/channelid/884290966?ticket=1FDB60D6CC7A8B12C5051E779E39DEFB588BB202&profile=pass
-#EXTINF:-1,AGRICULTURE-FOREST
-http://111.223.48.100:9981/stream/channelid/1261248177?ticket=6A03D92E1FC140A2F012886C4CA86C1CD63695D9&profile=pass
-#EXTINF:-1,HEALTH
-http://111.223.48.100:9981/stream/channelid/20196313?ticket=E8D4F011A160A19D1E77DBB222E9F0A238B54C67&profile=pass
-#EXTINF:-1,TINE-YIN-THAR
-http://111.223.48.100:9981/stream/channelid/1991503759?ticket=87342EA9A9871DEC60113C4C256CBE6F3B52BFB6&profile=pass
-#EXTINF:-1,HOME-CHANNEL
-http://111.223.48.100:9981/stream/channelid/2068188837?ticket=F13519FF7D99C5EE72F8696F676EFDE14371F93A&profile=pass
-#EXTINF:-1,T-SPORT
-http://111.223.52.109:81/tot/3ee1e656d6ae417a914743328d44f20f.m3u8?token=fuck
-#EXTINF:-1,T-SPORT
-http://111.223.48.100:9981/stream/channelid/47630084?ticket=CC585A5F10D7FFBC258323E9D22E448DEC176D04&profile=pass
-#EXTINF:-,GP Thai Sports
-http://111.223.52.109:81/tot/e05107e8304b4d118c92b5dffa636715.m3u8?token=fuck
-#EXTINF:-1,SMMTV
-http://111.223.52.109:81/tot/48cac6380caf4f078eafccc63804ac23.m3u8?token=fuck
-#EXTINF:-1,SSF
-http://111.223.48.100:9981/stream/channelid/750095086?ticket=75564DF544EFEF2C6161E41CDE7DF29363F4B4A2&profile=pass
-#EXTINF:-1,SPCH
-http://111.223.48.100:9981/stream/channelid/1874949340?ticket=4E85E50853A3E882668E518B7ADACDD9758B3FCD&profile=pass
-#EXTINF:-1,SSN
-http://111.223.48.100:9981/stream/channelid/330346025?ticket=99ECC2FC9CF9DF9E0039850E3740519BB084428A&profile=pass
 #EXTINF:-1,HI SPORT
 http://203.151.87.82:9000/udp/239.101.1.6:1234
-#EXTINF:-,DocuBox HD
+#EXTINF:-,Douce Box HD
 http://111.223.52.109:81/tot/77774220bb8e40aa94e549e29ff3ed8a.m3u8?token=fuck
-#EXTINF:-1,True Sport 2
-http://111.223.48.100:9981/stream/channelid/1822430721?ticket=C889A04B615463ACC1BDCE6556551B53D18E3E69&profile=pass
 #EXTINF:-1,True Sport 2
 rtmp://216.185.103.158/live2/chthaipremier31
 #EXTINF:-1,True Sport 5
-http://111.223.48.100:9981/stream/channelid/1365976453?ticket=5E06AAD89516020CF1F5E4D0852F4FC34C520B79&profile=pass
-#EXTINF:-1,True Sport 6
-http://111.223.48.100:9981/stream/channelid/325548682?ticket=1B44BF54EEDEC0E2446332F8BF64857228E56080&profile=pass
-#EXTINF:-1,True Sport 7
-http://111.223.48.100:9981/stream/channelid/691270809?ticket=18DF2E75EC86FDCF56F185E72D886CDEE937B2E1&profile=pass
 #EXTINF:-1,True Sport HD2
 rtmp://216.185.103.158/live2/chthaipremier11
-#EXTINF:-1,FoxSport 1
-http://111.223.48.100:9981/stream/channelid/1488863632?ticket=75A1C26747D5733864CE95103C9C3B894910FC67&profile=pass
 #EXTINF:-1,FoxSport 2
 http://111.223.52.109:81/tot/1fd48f2cd616439ca4162478e572d681.m3u8?token=fuck
 #EXTINF:-1,FoxSport 2
 http://111.223.52.109:81/tot/02cb79ab0b0c418f847148ca9e2baed4.m3u8?token=fuck
-#EXTINF:-1,FoxSport 2
-http://111.223.48.100:9981/stream/channelid/345460609?ticket=F7DBFB68FB81904DF1B5C07490B5833F83F58B9B&profile=pass
 #EXTINF:-1,FoxSport 3
 http://111.223.52.109:81/tot/b254601a75724ad79e2633f3d307e331.m3u8?token=fuck
 #EXTINF:-1,FoxSport 3
 http://111.223.52.109:81/tot/443ea6ef1768462aaffdff38ce2a4355.m3u8?token=fuck
-#EXTINF:-1,FoxSport 3
-http://111.223.48.100:9981/stream/channelid/390733800?ticket=CD5147683C63E32268DFF9AF1E60D73C0DC9036A&profile=pass
-#EXTINF:-1,Bein1
-http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein1hd/playlist.m3u8
-#EXTINF:-1,Bein2
-http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein2hd/playlist.m3u8
-#EXTINF:-1,Bein3
-http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein3hd/playlist.m3u8
-#EXTINF:-1,Bein4
-http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein4hd/playlist.m3u8
-#EXTINF:-1,SkynetHD
-http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/skynet_sportshd/playlist.m3u8
-#EXTINF:-1,Skynet1
-http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports1/playlist.m3u8
-#EXTINF:-1,Skynet2
-http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports2/playlist.m3u8
-#EXTINF:-1,Skynet3
-http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports3/playlist.m3u8
-#EXTINF:-1,Skynet4
-http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports4/playlist.m3u8
-#EXTINF:-1,Skynet5
-http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports5/playlist.m3u8
-#EXTINF:-1,Skynet6
-http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports6/playlist.m3u8
-#EXTINF:-1,EURO-SPORTS
-http://111.223.48.100:9981/stream/channelid/685419838?ticket=20EB5CD60C7EA86480DD91D65715E60FF8E34B7F&profile=pass
-#EXTINF:-1,FIGHT-SPORTS-HD
-http://111.223.48.100:9981/stream/channelid/1156719662?ticket=E4CD789BB9185F53989619D92B8B0D63785E7881&profile=pass
-#EXTINF:-1,ASN
-http://111.223.48.100:9981/stream/channelid/1241774971?ticket=77D53C34E67B4C01E8E8A8CDA88EFA63D60971C3&profile=pass
-#EXTINF:-1,GOLF
-http://111.223.48.100:9981/stream/channelid/2062295154?ticket=C09E3A7EA36E1766F2B9C1FC1875B59341CBC81B&profile=pass
-#EXTINF:-1,OUTDOOR-CHANNEL
-http://111.223.48.100:9981/stream/channelid/806688318?ticket=662EE0E294555B3EFE5BF1DCC1F2AEB2D48F0FCC&profile=pass
-#EXTINF:-1,EDGE-SPORTS
-http://111.223.48.100:9981/stream/channelid/1246699292?ticket=BFBAF2E2D30806D1F0C9606028F7E01E1F4B5DDE&profile=pass
-#EXTINF:-,MOTORVISION
-http://111.223.48.100:9981/stream/channelid/917297745?ticket=2F91A33FB081B29989DA7F95CB0BFF2535DF5355&profile=pass
-#EXTINF:-1,SKYNET-LIVE-CHANNEL
-http://111.223.48.100:9981/stream/channelid/979111948?ticket=A27703D5FB9D01116858BAE05C4F9D67A70EC795&profile=pass
-#EXTINF:-1 ,SKYNET-SPORTS-HD
-http://111.223.48.100:9981/stream/channelid/258189639?ticket=9E91411B1A30AE8AE83FAE9EAA5BADA6EEF5B95C&profile=pass
-#EXTINF:-1,SKYNET-SPORTS-1
-http://111.223.48.100:9981/stream/channelid/942234853?ticket=B02EEE739F2E777DCD80EDD36C51B2A63F6B4A59&profile=pass
-#EXTINF:-1,SKYNET-SPORTS-2
-http://111.223.48.100:9981/stream/channelid/1850969500?ticket=2FA3BADDA6305C16A217E5E3EA4105BC7A228153&profile=pass
-#EXTINF:-1,SKYNET-SPORTS-3
-http://111.223.48.100:9981/stream/channelid/212012415?ticket=80727777653F4D5357C6BF2CECE77EA67EEBF9AA&profile=pass
-#EXTINF:-1,SKYNET-SPORTS-4
-http://111.223.48.100:9981/stream/channelid/186690718?ticket=9491EC622D3B968D0A0E4C038CA92E2B98718B36&profile=pass
-#EXTINF:-1,SKYNET-SPORTS-5
-http://111.223.48.100:9981/stream/channelid/1392771533?ticket=D25D9E4127B77C0B7320AA651258B11DF83FB902&profile=pass
-#EXTINF:-1,SKYNET-SPORTS-6
-http://111.223.48.100:9981/stream/channelid/987795574?ticket=D5E35EC04D5A68D89C4D069C34F2BF6C1CF39BC9&profile=pass
 #EXTINF:-1,PAC-12 Net. (Arizona)
 http://xrxs.net/video/live-p12ariz-4728.m3u8? 
 #EXTINF:-1,PAC-12 Net. (Bay Area)
@@ -737,3 +376,249 @@ http://xrxs.net/video/live-p12moun-4728.m3u8?
 http://xrxs.net/video/live-p12oreg-4728.m3u8? 
 #EXTINF:-1,PAC-12 Net. (Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8? 
+#EXTINF:-1,Ch3 HD
+http://freetv-01.dyndns.tv/live/3-HD.m3u8
+#EXTINF:-1,Ch5 HD
+http://freetv-01.dyndns.tv/live/TV5-HD1.m3u8
+#EXTINF:-1,Ch7 HD
+http://freetv-01.dyndns.tv/live/CH7-HD.m3u8
+#EXTINF:-1,Amarin HD
+http://freetv-01.dyndns.tv/live/Amarin-TV-HD.m3u8
+#EXTINF:-1,Mcot HD
+http://freetv-01.dyndns.tv/live/MCOT-HD.m3u8
+#EXTINF:-1,Nbt HD
+http://freetv-01.dyndns.tv/live/NBT-HD.m3u8
+#EXTINF:-1,IPBS HD
+http://freetv-01.dyndns.tv/live/TPBS.m3u8
+#EXTINF:-1,Ch8 HD
+http://freetv-01.dyndns.tv/live/CH8-HD.m3u8
+#EXTINF:-1,One HD
+http://freetv-01.dyndns.tv/live/ONE-HD.m3u8
+#EXTINF:-1,PPTV HD
+http://freetv-01.dyndns.tv/live/PPTV-HD.m3u8
+#EXTINF:-1,Thairath HD
+http://freetv-01.dyndns.tv/live/Thairath-TV.m3u8
+#EXTINF:-1,Workpoint HD
+http://freetv-01.dyndns.tv/live/workpoint-HD.m3u8
+#EXTINF:-1,Tnn 24
+http://freetv-01.dyndns.tv/live/TNN24.m3u8
+#EXTINF:-1,Gmm 25
+http://freetv-01.dyndns.tv/live/GMM-25.m3u8
+#EXTINF:-1,Mono 29
+http://freetv-01.dyndns.tv/live/MONO-29.m3u8
+#EXTINF:-1,New
+http://freetv-01.dyndns.tv/live/new-tv.m3u8
+#EXTINF:-1,Spark jump
+http://freetv-01.dyndns.tv/live/SPK-JUMP.m3u8
+#EXTINF:-1,Spark play
+http://freetv-01.dyndns.tv/live/SPK-PLAY.m3u8
+#EXTINF:-1,Toonami
+http://freetv-01.dyndns.tv/live/Toonami.m3u8
+#EXTINF:-1,Boomerang
+http://freetv-01.dyndns.tv/live/BOOMERANG.m3u8
+#EXTINF:-1,Cartoon Club
+http://freetv-01.dyndns.tv/live/C-Club.m3u8
+#EXTINF:-1,Gang Cartoon 
+http://freetv-01.dyndns.tv/live/GANG-CARTOON.m3u8
+#EXTINF:-1,True Sport 2
+http://freetv-01.dyndns.tv/live/KNOW-TSP2.m3u8
+#EXTINF:-1,True Sport 5
+http://freetv-01.dyndns.tv/live/TSP5.m3u8
+#EXTINF:-1,True Sport 6
+http://freetv-01.dyndns.tv/live/TSP6.m3u8
+#EXTINF:-1,True Sport 7
+http://freetv-01.dyndns.tv/live/TSP7.m3u8
+#EXTINF:-1,Euro Sport 
+http://freetv-01.dyndns.tv/live/EURO-SPORTS.m3u8
+#EXTINF:-1,Fox Sport 1
+http://freetv-01.dyndns.tv/live/FOX-SPORTS-1.m3u8
+#EXTINF:-1,Fox Sport 2
+http://freetv-01.dyndns.tv/live/FOX-SPORTS-2.m3u8
+#EXTINF:-1,Fox Sport 3
+http://freetv-01.dyndns.tv/live/FOX-SPORTS-3.m3u8
+#EXTINF:-1,True Explorer Life
+http://freetv-01.dyndns.tv/live/EXPLIFE.m3u8
+#EXTINF:-1,True Explorer Wild
+http://freetv-01.dyndns.tv/live/EXPWILD.m3u8
+#EXTINF:-1,True Explorer Sci
+http://freetv-01.dyndns.tv/live/EXPSCI.m3u8
+#EXTINF:-1,PSI
+http://freetv-01.dyndns.tv/live/PSI-CHANNEL-HD.m3u8
+#EXTINF:-1,TLC
+http://freetv-01.dyndns.tv/live/GOLDA-TLC.m3u8
+#EXTINF:-1,INSIDE
+http://freetv-01.dyndns.tv/live/INSE.m3u8
+#EXTINF:-1,CHIC
+http://freetv-01.dyndns.tv/live/KNOW-CHIC.m3u8
+#EXTINF:-1,KBS world
+http://freetv-01.dyndns.tv/live/KBS.m3u8
+#EXTINF:-1,CCTV
+http://freetv-01.dyndns.tv/live/KNOW-CCTV.m3u8
+#EXTINF:-1,Fox thai
+http://freetv-01.dyndns.tv/live/FOX.m3u8
+#EXTINF:-1,Red
+http://freetv-01.dyndns.tv/live/RED.m3u8
+#EXTINF:-1,True Xzyte
+http://freetv-01.dyndns.tv/live/KNOW-XZYT.m3u8
+#EXTINF:-1,Film asia
+http://freetv-01.dyndns.tv/live/FL-A.m3u8
+#EXTINF:-1,Thai film
+http://freetv-01.dyndns.tv/live/TFLM.m3u8
+#EXTINF:-1,Asian series
+http://freetv-01.dyndns.tv/live/ASER.m3u8
+#EXTINF:-1,Movies Hit
+http://freetv-01.dyndns.tv/live/MOVH.m3u8
+#EXTINF:-1,Spark jump
+http://103.7.57.30/live/SPK-JUMP.m3u8
+#EXTINF:-1,Spark play
+http://103.7.57.30/live/SPK-PLAY.m3u8
+#EXTINF:-1,Toonami
+http://103.7.57.30/live/Toonami.m3u8
+#EXTINF:-1,Boomerang
+http://103.7.57.30/live/BOOMERANG.m3u8
+#EXTINF:-1,Cartoon Club
+http://103.7.57.30/live/C-Club.m3u8
+#EXTINF:-1,Gang Cartoon 
+http://103.7.57.30/live/GANG-CARTOON.m3u8
+#EXTINF:-1,True Sport 2
+http://103.7.57.30/live/KNOW-TSP2.m3u8
+#EXTINF:-1,True Sport 5
+http://103.7.57.30/live/TSP5.m3u8
+#EXTINF:-1,True Sport 6
+http://103.7.57.30/live/TSP6.m3u8
+#EXTINF:-1,True Sport 7
+http://103.7.57.30/live/TSP7.m3u8
+#EXTINF:-1,Euro Sport 
+http://103.7.57.30/live/EURO-SPORTS.m3u8
+#EXTINF:-1,Fox Sport 1
+http://103.7.57.30/live/FOX-SPORTS-1.m3u8
+#EXTINF:-1,Fox Sport 2
+http://103.7.57.30/live/FOX-SPORTS-2.m3u8
+#EXTINF:-1,Fox Sport 3
+http://103.7.57.30/live/FOX-SPORTS-3.m3u8
+#EXTINF:-1,True Explorer Life
+http://103.7.57.30/live/EXPLIFE.m3u8
+#EXTINF:-1,True Explorer Wild
+http://103.7.57.30/live/EXPWILD.m3u8
+#EXTINF:-1,True Explorer Sci
+http://103.7.57.30/live/EXPSCI.m3u8
+#EXTINF:-1,PSI
+http://103.7.57.30/live/PSI-CHANNEL-HD.m3u8
+#EXTINF:-1,TLC
+http://103.7.57.30/live/GOLDA-TLC.m3u8
+#EXTINF:-1,INSIDE
+http://103.7.57.30/live/INSE.m3u8
+#EXTINF:-1,CHIC
+http://103.7.57.30/live/KNOW-CHIC.m3u8
+#EXTINF:-1,KBS world
+http://103.7.57.30/live/KBS.m3u8
+#EXTINF:-1,CCTV
+http://103.7.57.30/live/KNOW-CCTV.m3u8
+#EXTINF:-1,Fox thai
+http://103.7.57.30/live/FOX.m3u8
+#EXTINF:-1,Red
+http://103.7.57.30/live/RED.m3u8
+#EXTINF:-1,True Xzyte
+http://103.7.57.30/live/KNOW-XZYT.m3u8
+#EXTINF:-1,Film asia
+http://103.7.57.30/live/FL-A.m3u8
+#EXTINF:-1,Thai film
+http://103.7.57.30/live/TFLM.m3u8
+#EXTINF:-1,Asian series
+http://103.7.57.30/live/ASER.m3u8
+#EXTINF:-1,Movies Hit
+http://103.7.57.30/live/MOVH.m3u8 
+#EXTINF:-1,Ch3 HD
+http://150.107.29.72/live/3-HD.m3u8
+#EXTINF:-1,Ch5 HD
+http://150.107.29.72/live/TV5-HD1.m3u8
+#EXTINF:-1,Ch7 HD
+http://150.107.29.72/live/CH7-HD.m3u8
+#EXTINF:-1,Amarin HD
+http://150.107.29.72/live/Amarin-TV-HD.m3u8
+#EXTINF:-1,Mcot HD
+http://150.107.29.72/live/MCOT-HD.m3u8
+#EXTINF:-1,Nbt HD
+http://150.107.29.72/live/NBT-HD.m3u8
+#EXTINF:-1,TPBS HD
+http://150.107.29.72/live/TPBS.m3u8
+#EXTINF:-1,Ch8 HD
+http://150.107.29.72/live/CH8-HD.m3u8
+#EXTINF:-1,One HD
+http://150.107.29.72/live/ONE-HD.m3u8
+#EXTINF:-1,PPTV HD
+http://150.107.29.72/live/PPTV-HD.m3u8
+#EXTINF:-1,Thairath HD
+http://150.107.29.72/live/Thairath-TV.m3u8
+#EXTINF:-1,Workpoint HD
+http://150.107.29.72/live/workpoint-HD.m3u8
+#EXTINF:-1,Tnn 24
+http://150.107.29.72/live/TNN24.m3u8
+#EXTINF:-1,Gmm 25
+http://150.107.29.72/live/GMM-25.m3u8
+#EXTINF:-1,Mono 29
+http://150.107.29.72/live/MONO-29.m3u8
+#EXTINF:-1,New
+http://150.107.29.72/live/new-tv.m3u8
+#EXTINF:-1,Spark jump
+http://150.107.29.72/live/SPK-JUMP.m3u8
+#EXTINF:-1,Spark play
+http://150.107.29.72/live/SPK-PLAY.m3u8
+#EXTINF:-1,Toonami
+http://150.107.29.72/live/Toonami.m3u8
+#EXTINF:-1,Boomerang
+http://150.107.29.72/live/BOOMERANG.m3u8
+#EXTINF:-1,Cartoon Club
+http://150.107.29.72/live/C-Club.m3u8
+#EXTINF:-1,Gang Cartoon 
+http://150.107.29.72/live/GANG-CARTOON.m3u8
+#EXTINF:-1,True Sport 2
+http://150.107.29.72/live/KNOW-TSP2.m3u8
+#EXTINF:-1,True Sport 5
+http://150.107.29.72/live/TSP5.m3u8
+#EXTINF:-1,True Sport 6
+http://150.107.29.72/live/TSP6.m3u8
+#EXTINF:-1,True Sport 7
+http://150.107.29.72/live/TSP7.m3u8
+#EXTINF:-1,Euro Sport 
+http://150.107.29.72/live/EURO-SPORTS.m3u8
+#EXTINF:-1,Fox Sport 1
+http://150.107.29.72/live/FOX-SPORTS-1.m3u8
+#EXTINF:-1,Fox Sport 2
+http://150.107.29.72/live/FOX-SPORTS-2.m3u8
+#EXTINF:-1,Fox Sport 3
+http://150.107.29.72/live/FOX-SPORTS-3.m3u8
+#EXTINF:-1,True Explorer Life
+http://150.107.29.72/live/EXPLIFE.m3u8
+#EXTINF:-1,True Explorer Wild
+http://150.107.29.72/live/EXPWILD.m3u8
+#EXTINF:-1,True Explorer Sci
+http://150.107.29.72/live/EXPSCI.m3u8
+#EXTINF:-1,PSI
+http://150.107.29.72/live/PSI-CHANNEL-HD.m3u8
+#EXTINF:-1,TLC
+http://150.107.29.72/live/GOLDA-TLC.m3u8
+#EXTINF:-1,INSIDE
+http://150.107.29.72/live/INSE.m3u8
+#EXTINF:-1,CHIC
+http://150.107.29.72/live/KNOW-CHIC.m3u8
+#EXTINF:-1,KBS world
+http://150.107.29.72/live/KBS.m3u8
+#EXTINF:-1,CCTV
+http://150.107.29.72/live/KNOW-CCTV.m3u8
+#EXTINF:-1,Fox thai
+http://150.107.29.72/live/FOX.m3u8
+#EXTINF:-1,Red
+http://150.107.29.72/live/RED.m3u8
+#EXTINF:-1,True Xzyte
+http://150.107.29.72/live/KNOW-XZYT.m3u8
+#EXTINF:-1,Film asia
+http://150.107.29.72/live/FL-A.m3u8
+#EXTINF:-1,Thai film
+http://150.107.29.72/live/TFLM.m3u8
+#EXTINF:-1,Asian series
+http://150.107.29.72/live/ASER.m3u8
+#EXTINF:-1,Movies Hit
+http://150.107.29.72/live/MOVH.m3u8
+
+
