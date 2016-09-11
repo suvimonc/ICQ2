@@ -27,20 +27,12 @@ http://61.19.18.237/live/m1.sdp/playlist.m3u8
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1,Bein Sport 1
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein1hd/playlist.m3u8
-#EXTINF:-1,Bein Sport 1
-http://pdd1.tv2hd.com:443/cdn80/0x777_beinsport1_720p/playlist.m3u8?model=
 #EXTINF:-1,Bein Sport 2
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein2hd/playlist.m3u8
-#EXTINF:-1,Bein Sport 2
-http://pdd1.tv2hd.com:443/cdn80/0x777_beinsporthd2_720p/playlist.m3u8?model=
 #EXTINF:-1,Bein Sport 3
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein3hd/playlist.m3u8
-#EXTINF:-1,Bein Sport 3
-http://pdd1.tv2hd.com:443/cdn80/0x777_beinsporthd3_720p/playlist.m3u8?model=
 #EXTINF:-1,Bein Sport 4
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein4hd/playlist.m3u8
-#EXTINF:-1,Bein Sport 4
-http://pdd1.tv2hd.com:443/cdn77/0x222_beinsport4b_720p/playlist.m3u8?model=
 #EXTINF:-1,SkynetHD
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/skynet_sportshd/playlist.m3u8=
 #EXTINF:-1,Skynet1
@@ -55,24 +47,12 @@ http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports4/playlist.m3u8
 http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports5/playlist.m3u8
 #EXTINF:-1,Skynet6
 http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports6/playlist.m3u8
-#EXTINF:-1,True Sport 2
-http://pdd1.tv2hd.com:443/cdn77/00_2sport2_480p/chunklist_w1694238777.m3u8=
-#EXTINF:-1,True Sport 3
-http://pdd1.tv2hd.com:443/cdn77/00_2sport3_480p/chunklist_w79857372.m3u8?model=
-#EXTINF:-1,True Sport 4
-http://pdd1.tv2hd.com:443/cdn77/00_2sport5_480p/chunklist_w939308874.m3u8?model=
-#EXTINF:-1,True Tennis
-http://pdd1.tv2hd.com:443/cdn80/0x777_truetennis_720p/chunklist_w1238718980.m3u8?model=
 #EXTINF:-1,True Sport HD2
 rtmp://216.185.103.158/live2/chthaipremier11
 #EXTINF:-1,True Sport HD3
 rtmp://216.185.103.158/live2/chthaipremier31
 #EXTINF:-1,My Sci
 http://27.254.149.37:8082/Mysci/index.m3u8
-#EXTINF:-1,Red
-http://pdd1.tv2hd.com:443/cdn77/00_screenred_480p/playlist.m3u8?model=
-#EXTINF:-1,HBO
-http://pdd1.tv2hd.com:443/cdn80/0x777_hbohd_720p/chunklist_w931255727.m3u8?model=
 #EXTINF:-1,NHK
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1,CH3 HD
