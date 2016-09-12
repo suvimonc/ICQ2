@@ -27,12 +27,20 @@ http://61.19.18.237/live/m1.sdp/playlist.m3u8
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1,Bein Sport 1
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein1hd/playlist.m3u8
+#EXTINF:-1,Bein Sport 1
+http://27.254.64.105:1935/zeanrod2/0x777_beinsport1_480p.stream/playlist.m3u8
 #EXTINF:-1,Bein Sport 2
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein2hd/playlist.m3u8
+#EXTINF:-1,Bein Sport 2
+http://27.254.64.105:1935/zeanrod2/0x777_beinsport2_480p.stream/playlist.m3u8
 #EXTINF:-1,Bein Sport 3
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein3hd/playlist.m3u8
+#EXTINF:-1,Bein Sport 3
+http://27.254.64.105:1935/zeanrod2/0x777_beinsport3_480p.stream/playlist.m3u8
 #EXTINF:-1,Bein Sport 4
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein4hd/playlist.m3u8
+#EXTINF:-1,Bein Sport 4
+http://27.254.64.105:1935/zeanrod2/0x777_beinsport4_480p.stream/playlist.m3u8
 #EXTINF:-1,SkynetHD
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/skynet_sportshd/playlist.m3u8=
 #EXTINF:-1,Skynet1
@@ -51,6 +59,8 @@ http://fjskt2a451ob0416.cdn.ipplaybox.tv/requiref/skynet_sports6/playlist.m3u8
 rtmp://216.185.103.158/live2/chthaipremier11
 #EXTINF:-1,True Sport HD3
 rtmp://216.185.103.158/live2/chthaipremier31
+#EXTINF:-1,True Sport HD2
+http://tea3xe87bf2qr8g6.cdn.ipplaybox.tv:443/requiref/thd22/playlist.m3u8
 #EXTINF:-1,My Sci
 http://27.254.149.37:8082/Mysci/index.m3u8
 #EXTINF:-1,NHK
