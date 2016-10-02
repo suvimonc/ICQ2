@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Ch 3 HD
-http://111.223.37.196:1935/thaitv3_HD/thaitv3_HD_1/playlist.m3u8
-#EXTINF:-1,Ch 5 HD
-http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w121663169_b1024000.m3u8
-#EXTINF:-1,Ch 7 HD
-http://je7.bugaboo.tv/liveedgech7_partner/720p/playlist.m3u8
-#EXTINF:-1,Mcot HD
-http://lb-media.mcot.net:1935/9mcot_edge/9mcot.stream/playlist.m3u8
-#EXTINF:-1,TPBS  HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1,PPTV
-http://111.223.36.5/teleplus_pptvhd.m3u8?bandwidth=956
-#EXTINF:-1,MONO29
-http://solution01.stream.3bb.co.th:1935/MonoTV720/720p_th/chunklist_w1096387566.m3u8
-#EXTINF:-1,TNN 24
-http://edge2.psitv.tv:1935/liveedge/308360140120_600/chunklist_w1322924984.m3u8
-#EXTINF:-1,Ch 8
-http://111.223.51.3/desktop/ch8_720p/medialist.m3u8
-#EXTINF:-1,NEW TV
-http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-#EXTINF:-1,WORKPOINT
-http://workpoint.radical-enlighten.com:1935/workpoint/_definst_/workpoint_720p/chunklist.m3u8
-#EXTINF:-1,CAT channel
-http://61.19.18.237/live/m1.sdp/playlist.m3u8
-#EXTINF:-1,Thairath HD 
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1,Bein Sport 1
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein1hd/playlist.m3u8
 #EXTINF:-1,Bein Sport 1
@@ -41,14 +15,128 @@ http://27.254.64.105:1935/zeanrod2/0x777_beinsport3_480p.stream/playlist.m3u8
 http://jxcejbk42tfs5pqz.cdn.ipplaybox.tv/requiref/bein4hd/playlist.m3u8
 #EXTINF:-1,Bein Sport 4
 http://27.254.64.105:1935/zeanrod2/0x777_beinsport4_480p.stream/playlist.m3u8
-#EXTINF:-1,True Sport HD2
-rtmp://216.185.103.158/live2/chthaipremier11
-#EXTINF:-1,True Sport HD3
-rtmp://216.185.103.158/live2/chthaipremier31
-#EXTINF:-1,True Sport HD2
-http://tea3xe87bf2qr8g6.cdn.ipplaybox.tv:443/requiref/thd22/playlist.m3u8
 #EXTINF:-1,NHK
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1,3 HD
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/hd-ch3_720/playlist.m3u8
+#EXTINF:-1,5 HD
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/hd-ch5_720/playlist.m3u8
+#EXTINF:-1,7 HD
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/hd-ch7_720/playlist.m3u8
+#EXTINF:-1,Mcot HD
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/hd-mcot_720/playlist.m3u8
+#EXTINF:-1,TPBS
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/hd-tpbs_720/playlist.m3u8
+#EXTINF:-1,Work Point
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/hd-workpoint_480/playlist.m3u8
+#EXTINF:-1,Mono29
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/hd-mono_480/playlist.m3u8
+#EXTINF:-1,Thairath HD 
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/hd-thairath_720/playlist.m3u8
+#EXTINF:-1,PPTV
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/hd-pptv_720/playlist.m3u8
+#EXTINF:-1,CH 8
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/hd-ch8_480/playlist.m3u8
+#EXTINF:-1,GMM
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/sd-gmmchannel_480/playlist.m3u8
+#EXTINF:-1,TNN 24
+http://kndstream-k2.ilikehd.com:8081/5-dvr1/sd-tnn24_480/chunks.m3u8
+#EXTINF:-1,NATION
+http://kndstream3.ilikehd.com:182/5-dvr1/sd-nation_480/chunks.m3u8
+#EXTINF:-1,NEW
+http://kndstream3.ilikehd.com:182/5-dvr1/sd-new_480/chunks.m3u8
+#EXTINF:-1,NOW
+http://kndstream3.ilikehd.com:182/5-dvr1/sd-now_480/chunks.m3u8
+#EXTINF:-1,CH3 HD
+http://a1.adintrend.com:443/live/ch3/i/ch3i.m3u8
+#EXTINF:-1,CH3 SD
+http://a1.adintrend.com:443/live/ch21/i/ch21i.m3u8
+#EXTINF:-1,TV5 HD
+http://a1.adintrend.com:443/live/ch5/i/ch5i.m3u8
+#EXTINF:-1,CH7
+http://a1.adintrend.com:443/live/ch1/i/ch1i.m3u8
+#EXTINF:-1,CH9 HD
+http://lb-media.mcot.net:1935/9mcot_edge/9mcot.stream/playlist.m3u8
+#EXTINF:-1,MCOT HD, 
+http://a1.adintrend.com:443/live/ch9/i/ch9i.m3u8
+#EXTINF:-1,NBT,
+http://a1.adintrend.com:443/live/ch11/i/ch11i.m3u8
+#EXTINF:-1,Thai PBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1,Money Channel
+http://a1.adintrend.com:443/live/ch24/i/ch24i.m3u8
+#EXTINF:-1,Mono29
+http://a1.adintrend.com:443/live/ch38/i/ch38i.m3u8
+#EXTINF:-1,Nation TV 
+http://a1.adintrend.com:443/live/ch37/i/ch37i.m3u8
+#EXTINF:-1,Cartoon Club
+http://a1.adintrend.com:443/live/ch31/i/ch31i.m3u8
+#EXTINF:-1,Fahwonmai
+http://a1.adintrend.com:443/live/ch34/i/ch34i.m3u8
+#EXTINF:-1,AmarinTV
+http://a1.adintrend.com:443/live/ch26/i/ch26i.m3u8
+#EXTINF:-1,New)TV
+http://a1.adintrend.com:443/live/ch30/i/ch30i.m3u8
+#EXTINF:-1,True4U, 
+http://a1.adintrend.com:443/live/ch23/i/ch23i.m3u8
+#EXTINF:-1,Thairath HD, 
+http://a1.adintrend.com:443/live/ch39/i/ch39i.m3u8
+#EXTINF:-1,True Select 
+http://a1.adintrend.com:443/live/ch27/i/ch27i.m3u8
+#EXTINF:-1,CH2
+http://a1.adintrend.com:443/live/ch22/i/ch22i.m3u8
+#EXTINF:-1,CH8 
+http://a1.adintrend.com:443/live/ch33/i/ch33i.m3u8
+#EXTINF:-1,Now26
+http://a1.adintrend.com:443/live/ch32/i/ch32i.m3u8
+#EXTINF:-1,You  Channel
+http://a1.adintrend.com:443/live/ch36/i/ch36i.m3u8
+#EXTINF:-1,Sabaidee TV
+http://a1.adintrend.com:443/live/ch35/i/ch35i.m3u8
+#EXTINF:-1,PPTV HD 
+http://a1.adintrend.com:443/live/ch25/i/ch25i.m3u8
+#EXTINF:-1,GMM25
+http://a1.adintrend.com:443/live/ch0/i/ch0i.m3u8
+#EXTINF:-1,Amarin TV
+http://202.170.120.228:1935/stream/5195e80fe1ed0/playlist.m3u8
+#EXTINF:-1,Thai Chaiyo  
+http://live.thaichaiyotv.co.th:1935/thaichaiyotv/live/playlist.m3u8
+#EXTINF:-1,Thai Muslim 
+http://radio2.thaidhost.com:8888/muslimonair2/live/playlist.m3u8
+#EXTINF:-1,Thai Parliament 
+http://202.57.162.55:1935/radio01/radio01/playlist.m3u8
+#EXTINF:-1,Thairath TV HD
+http://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1,Workpoint
+http://122.155.180.125/workpoint/workpoint_720p/playlist.m3u8
+#EXTINF:-1,Sabaidee TV 
+http://202.142.207.150:1935/live/livesabaidee3/playlist.m3u8
+#EXTINF:-1,NewTV 
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+#EXTINF:-1,CH2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1,CH8
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#EXTINF:-1,Sabaidee TV 
+http://stream.rs.co.th/sbd-hi/index.m3u8
+#EXTINF:-1,Mix Major
+http://103.40.138.89:1935/live/mixmajor/playlist.m3u8
+#EXTINF:-1,DaraDaily 
+http://202.44.53.116:1935/live/daradaily/playlist.m3u8
+#EXTINF:-1,ESan TV
+http://103.40.138.89:1935/live/esan/playlist.m3u8
+#EXTINF:-1,Five Channel
+http://103.40.138.89:1935/live/five/playlist.m3u8
+#EXTINF:-1,Modern India
+http://103.40.138.89:1935/live/modernindia/playlist.m3u8
+#EXTINF:-1,TCCTV 
+http://solution01.stream.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+#EXTINF:-1,HiSport HD
+http://203.154.243.88:1935/live/hisport.stream/playlist.m3u8
+#EXTINF:-1,MGTV
+http://103.40.138.89:1935/live/mgtv/playlist.m3u8
+#EXTINF:-1,MV Lao
+http://103.40.138.89:1935/live/mvlao/playlist.m3u8
 #EXTINF:-1,CH3 HD
 http://111.223.52.109:81/tot/a4485b656d764f308c63b14a8bf62326.m3u8?token=fuck
 #EXTINF:-1,CH5 HD
@@ -636,18 +724,6 @@ http://siam-gps.com/stream/totnew.php?channel_id=1e2041858ca543fa90ec95d28197e90
 http://siam-gps.com/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
 #EXTINF:-1,China2
 http://siam-gps.com/stream/totnew.php?channel_id=c8233976dbba4a06a101780907447375
-#EXTINF:-1,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8? 
-#EXTINF:-1,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8? 
-#EXTINF:-1,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8? 
-#EXTINF:-1,PAC-12 Net. (Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8? 
-#EXTINF:-1,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8? 
-#EXTINF:-1,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8? 
 #EXTINF:-1,Ch3 HD
 http://freetv-01.dyndns.tv/live/3-HD.m3u8
 #EXTINF:-1,Ch5 HD
@@ -740,6 +816,64 @@ http://freetv-01.dyndns.tv/live/TFLM.m3u8
 http://freetv-01.dyndns.tv/live/ASER.m3u8
 #EXTINF:-1,Movies Hit
 http://freetv-01.dyndns.tv/live/MOVH.m3u8
+#EXTINF:-1,H2
+http://freetv-01.dyndns.tv/live/H2.m3u8
+#EXTINF:-1,HISTORY
+http://freetv-01.dyndns.tv/live/HISTORY-HD.m3u8
+#EXTINF:-1,DISCOVERY
+http://freetv-01.dyndns.tv/live/DISCOVERY.m3u8
+#EXTINF:-1,DISCOVERY-HD
+http://freetv-01.dyndns.tv/live/DISCOVERY-HD-WORLD.m3u8
+#EXTINF:-1,Disney
+http://freetv-01.dyndns.tv/live/Disn.m3u8
+#EXTINF:-1,DISNEY-JUNIOR
+http://freetv-01.dyndns.tv/live/DISNEY-JUNIOR-ASIA.m3u8
+#EXTINF:-1,CARTOON-NETWORK
+http://freetv-01.dyndns.tv/live/CARTOON-NETWORK.m3u8
+#EXTINF:-1,NICKELODEON
+http://freetv-01.dyndns.tv/live/NICKELODEON.m3u8
+#EXTINF:-1,NAT-GEO-PEOPLE
+http://freetv-01.dyndns.tv/live/NAT-GEO-PEOPLE.m3u8
+#EXTINF:-1,DISCOVERY-SCIENCE
+http://freetv-01.dyndns.tv/live/DISCOVERY-SCIENCE.m3u8
+#EXTINF:-1,AXN
+http://freetv-01.dyndns.tv/live/AXN.m3u8
+#EXTINF:-1,HBO-HD
+http://freetv-01.dyndns.tv/live/HBO-HD.m3u8
+#EXTINF:-1,CINEMAX
+http://freetv-01.dyndns.tv/live/CINEMAX.m3u8
+#EXTINF:-1,FOX-ACTION
+http://freetv-01.dyndns.tv/live/FOX-ACTION-MOVIES-HD.m3u8
+#EXTINF:-1,FOX-FAMILY
+http://freetv-01.dyndns.tv/live/FOX-FAMILY-MOVIES.m3u8
+#EXTINF:-1,FOX-MOVIES
+http://freetv-01.dyndns.tv/live/FOX-MOVIES-PREMIUM.m3u8
+#EXTINF:-1,FOX-CRIME
+http://freetv-01.dyndns.tv/live/FOX-CRIME.m3u8
+#EXTINF:-1,ASIAN-MOVIES
+http://freetv-01.dyndns.tv/live/ASIAN-MOVIES.m3u8
+#EXTINF:-1,WORLD-MOVIES
+http://freetv-01.dyndns.tv/live/WORLD-MOVIES.m3u8
+#EXTINF:-1,STAR-WORLD
+http://freetv-01.dyndns.tv/live/STAR-WORLD.m3u8
+#EXTINF:-1,DISCOVERY-SCIENCE
+http://freetv-01.dyndns.tv/live/DISCOVERY-SCIENCE.m3u8
+#EXTINF:-1,NHK-WORLD
+http://freetv-01.dyndns.tv/live/NHK-WORLD-PREMIUM.m3u8
+#EXTINF:-1,NHK-PREMIUM
+http://freetv-01.dyndns.tv/live/NHK-WORLD-PREMIUM.m3u8
+#EXTINF:-1,SKYNET-SPORTS-1
+http://freetv-01.dyndns.tv/live/SKYNET-SPORTS-1.m3u8
+#EXTINF:-1,SKYNET-SPORTS-2
+http://freetv-01.dyndns.tv/live/SKYNET-SPORTS-2.m3u8
+#EXTINF:-1,SKYNET-SPORTS-3
+http://freetv-01.dyndns.tv/live/SKYNET-SPORTS-3.m3u8
+#EXTINF:-1,BBC
+http://freetv-01.dyndns.tv/live/BBC-WORLD-NEWS.m3u8
+#EXTINF:-1,CNN
+http://freetv-01.dyndns.tv/live/CNN.m3u8
+#EXTINF:-1,CCTV-NEWS
+http://freetv-01.dyndns.tv/live/CCTV-NEWS.m3u8
 #EXTINF:-1,Spark jump
 http://103.7.57.30/live/SPK-JUMP.m3u8
 #EXTINF:-1,Spark play
