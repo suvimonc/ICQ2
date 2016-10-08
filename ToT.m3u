@@ -139,10 +139,6 @@ http://103.40.138.89:1935/live/mgtv/playlist.m3u8
 http://103.40.138.89:1935/live/mvlao/playlist.m3u8
 #EXTINF:-1,CH3 HD
 http://www.tot-iptv.com/a4485b656d764f308c63b14a8bf62326.m3u8?token=fuck
-#EXTINF:-1,CH3 SD
-http://www.tot-iptv.com/0296e16fac6149ed99004125f37fa2e4.m3u8?token=fuck
-#EXTINF:-1,CH 3 Family
-http://www.tot-iptv.com/93d89e479ef9499a9c1ddc36b85e4190.m3u8?token=fuck
 #EXTINF:-1,TV5 HD1 
 http://www.tot-iptv.com/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?token=fuck
 #EXTINF:-1,BBTV CH 7
@@ -153,10 +149,28 @@ http://www.tot-iptv.com/3ae2fd6ccaf6499e898de377ed74ea12.m3u8?token=fuck
 http://www.tot-iptv.com/ce9a1585f45d4379970b95308df3f879.m3u8?token=fuck
 #EXTINF:-1,Thai PBS HD
 http://www.tot-iptv.com/d7182fae6e9f4d929bdb5ae06059bda8.m3u8?token=fuck
-#EXTINF:-1,TPTV
-http://www.tot-iptv.com/e1464d4ef4aa4bbc972073bb4ebe17fd.m3u8?token=fuck
+#EXTINF:-1,CH3 SD
+http://www.tot-iptv.com/0296e16fac6149ed99004125f37fa2e4.m3u8?token=fuck
+#EXTINF:-1,CH 3 Family
+http://www.tot-iptv.com/93d89e479ef9499a9c1ddc36b85e4190.m3u8?token=fuck
 #EXTINF:-1,MCOT Family
 http://www.tot-iptv.com/2e1f1aff8eaf4a88b4c69a7da5487566.m3u8?token=fuck
+#EXTINF:-1,one HD
+http://www.tot-iptv.com/7e069540a35942e89245865a84add64a.m3u8?token=fuck
+#EXTINF:-1,Thairath TV
+http://www.tot-iptv.com/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8?token=fuck
+#EXTINF:-1,Work Point
+http://www.tot-iptv.com/a9a68ab5471d4d39ba25695a66957067.m3u8?token=fuck
+#EXTINF:-1,MONO29
+http://www.tot-iptv.com/fd23603db67344c69a8304a2fca268cd.m3u8?token=fuck
+#EXTINF:-1,PPTV
+http://www.tot-iptv.com/623d009180394c528880c14e2254452a.m3u8?token=fuck
+#EXTINF:-1,TRUE 4 U
+http://www.tot-iptv.com/9ece9059930d4331a3d445f96fb30dff.m3u8?token=fuck
+#EXTINF:-1,GMM CHANNEL
+http://www.tot-iptv.com/ab0b43ef8363438098a94101e93ca138.m3u8?token=fuck
+#EXTINF:-1,CH 8
+http://www.tot-iptv.com/15c52eeb21b748319771eb794a6cf242.m3u8?token=fuck
 #EXTINF:-1,TNN 24
 http://www.tot-iptv.com/77774220bb8e40aa94e549e29ff3ed8a.m3u8?token=fuck
 #EXTINF:-1,New)tv
@@ -169,28 +183,12 @@ http://www.tot-iptv.com/89264a79a72b48eeb90f3fde7ae13740.m3u8?token=fuck
 http://www.tot-iptv.com/b29f0e7ada6348c6851bad32728a6ddb.m3u8?token=fuck
 #EXTINF:-1,Nation TV
 http://www.tot-iptv.com/a5b25476119b46f5b5a34d56f7d1156c.m3u8?token=fuck
-#EXTINF:-1,WorkPoint
-http://www.tot-iptv.com/a9a68ab5471d4d39ba25695a66957067.m3u8?token=fuck
-#EXTINF:-1,TRUE 4 U
-http://www.tot-iptv.com/9ece9059930d4331a3d445f96fb30dff.m3u8?token=fuck
-#EXTINF:-1,GMM CHANNEL
-http://www.tot-iptv.com/ab0b43ef8363438098a94101e93ca138.m3u8?token=fuck
 #EXTINF:-1,NOW
 http://www.tot-iptv.com/732ace1b4983472097eedb0d415dc231.m3u8?token=fuck
-#EXTINF:-1,CH 8
-http://www.tot-iptv.com/15c52eeb21b748319771eb794a6cf242.m3u8?token=fuck
-#EXTINF:-1,MONO29
-http://www.tot-iptv.com/fd23603db67344c69a8304a2fca268cd.m3u8?token=fuck
-#EXTINF:-1,One HD
-http://www.tot-iptv.com/7e069540a35942e89245865a84add64a.m3u8?token=fuck
-#EXTINF:-1,Thairath TV
-http://www.tot-iptv.com/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8?token=fuck
+#EXTINF:-1,TPTV
+http://www.tot-iptv.com/e1464d4ef4aa4bbc972073bb4ebe17fd.m3u8?token=fuck
 #EXTINF:-1,AMARIN TV HD
 http://www.tot-iptv.com/78f57ebcf6064b308d75208a20756983.m3u8?token=fuck
-#EXTINF:-1,PPTV
-http://www.tot-iptv.com/623d009180394c528880c14e2254452a.m3u8?token=fuck
-#EXTINF:-1,T-News Channel
-http://www.tot-iptv.com/bcc7d0600c9943f2a1114f5749d180e8.m3u8?token=fuck
 #EXTINF:-1,Money Channel
 http://www.tot-iptv.com/f902199d513449e6a51ce477508b1246.m3u8?token=fuck
 #EXTINF:-1,TV 24
@@ -235,28 +233,20 @@ http://www.tot-iptv.com/25713d0629f148adbfedbdf4284afb09.m3u8?token=fuck
 http://www.tot-iptv.com/8e959f5d739d497c95faa31b3a810dd6.m3u8?token=fuck
 #EXTINF:-1,Mix Major
 http://www.tot-iptv.com/ab6acb38607a4aff9dc773a6772c91fc.m3u8?token=fuck
-#EXTINF:-1,POP TV
-http://www.tot-iptv.com/5389167315dc4a619ed5bc72f66a1c4f.m3u8?token=fuck
 #EXTINF:-1,Thai Chaiyo
 http://www.tot-iptv.com/a2ca06da9478412e9501d968e31bbf75.m3u8?token=fuck
 #EXTINF:-1,CH 2
 http://www.tot-iptv.com/4e38ed2fa4dd43999828eab81196deff.m3u8?token=fuck
-#EXTINF:-1,B4U Music India
-http://www.tot-iptv.com/81ff107849124ff389814b0b8816b1ba.m3u8?token=fuck
 #EXTINF:-1,zETC
 http://www.tot-iptv.com/dcf0d550815947f3bacaf3521e118124.m3u8?token=fuck
 #EXTINF:-1,MGTV
 http://www.tot-iptv.com/0518392dc56246e1808c211c796d5e84.m3u8?token=fuck
 #EXTINF:-1,Dara Daily
 http://www.tot-iptv.com/1e2b9312fc384567ac6a12e650d8796a.m3u8?token=fuck
-#EXTINF:-1,TGN
-http://www.tot-iptv.com/e362c185f33d4e2d8ae8921cbff3ca4e.m3u8?token=fuck
 #EXTINF:-1,MONO Plus
 http://www.tot-iptv.com/9623847065ba466e90632cf686fade0b.m3u8?token=fuck
 #EXTINF:-1,Thai Station
 http://www.tot-iptv.com/768ab5caf16e44689c3a75e6a3f57b5c.m3u8?token=fuck
-#EXTINF:-1,Choice Variety HD
-http://www.tot-iptv.com/776b6a50795540108ffaf77c979c0578.m3u8?token=fuck
 #EXTINF:-1,Fashion TV (SD)
 http://www.tot-iptv.com/df468a12ae6547de9637486bdc2025aa.m3u8?token=fuck
 #EXTINF:-1,FX HD
@@ -285,6 +275,10 @@ http://www.tot-iptv.com/5028f7ff1d1b4d5f8189690233364737.m3u8?token=fuck
 http://www.tot-iptv.com/6744e98748214c32912a46d1c7277d55.m3u8?token=fuck
 #EXTINF:-1,Fox Action Movies HD(English)
 http://www.tot-iptv.com/206105b34a1c44b886c6cd3c59105803.m3u8?token=fuck
+#EXTINF:-1,China1
+http://www.tot-iptv.com/29a09591a6604ff3b798cd7ef809e4bd.m3u8?token=fuck
+#EXTINF:-1,China2
+http://www.tot-iptv.com/c8233976dbba4a06a101780907447375.m3u8?token=fuck
 #EXTINF:-1,Fox Thai (Thai)
 http://www.tot-iptv.com/63cbfb466fe644dda11a8e109611a5cd.m3u8?token=fuck
 #EXTINF:-1,Fox Thai (Eng)
@@ -299,20 +293,14 @@ http://www.tot-iptv.com/deb56e700dbc4d9ea5af08e9d300a675.m3u8?token=fuck
 http://www.tot-iptv.com/9e38a0084e6d45d080139a166c60a102.m3u8?token=fuck
 #EXTINF:-1,CCTV-4
 http://www.tot-iptv.com/5289381709e64f8db14a4ed75ab2b59f.m3u8?token=fuck
-#EXTINF:-1,ITV Choice HD
-http://www.tot-iptv.com/e36b99bcd26648af9db2261785c77b7a.m3u8?token=fuck
 #EXTINF:-1,Star Chinese Channel (scc)
 http://www.tot-iptv.com/29a09591a6604ff3b798cd7ef809e4bd.m3u8?token=fuck
 #EXTINF:-1,Star Chinese Movies Legend (SCM Legend)
 http://www.tot-iptv.com/c8233976dbba4a06a101780907447375.m3u8?token=fuck
-#EXTINF:-1,Warner TV HD 
-http://www.tot-iptv.com/b48e02caa15743b5ad1f7f4b3022854a.m3u8?token=fuck
 #EXTINF:-1,Trace Urban TV HD
 http://www.tot-iptv.com/69ebf00065494dc39a3911c7d1eb9d71.m3u8?token=fuck
 #EXTINF:-1,StarWorld HD
 http://www.tot-iptv.com/65f7358b813048a0898f5677e1793cf9.m3u8?token=fuck
-#EXTINF:-1,Choice Preview ENTERTAINMENT
-http://www.tot-iptv.com/776b6a50795540108ffaf77c979c0578.m3u8?token=fuck
 #EXTINF:-1,Cartoon Club
 http://www.tot-iptv.com/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?token=fuck
 #EXTINF:-1,Gang Cartoon
@@ -323,32 +311,20 @@ http://www.tot-iptv.com/06c02432266f4f42b48947e075de38c5.m3u8?token=fuck
 http://www.tot-iptv.com/2b72986be9314c139db95f6098d1c413.m3u8?token=fuck
 #EXTINF:-1,Nick Jr. (ENG)
 http://www.tot-iptv.com/09fffe8d426745689f60cbc24da1bb49.m3u8?token=fuck
-#EXTINF:-1,Animax
-http://www.tot-iptv.com/d3edb48a8bb847c78432270e23ddca73.m3u8?token=fuck
 #EXTINF:-1,Baby TV
 http://www.tot-iptv.com/7773f3cef0334a28ad248552ea63d9e7.m3u8?token=fuck
-#EXTINF:-1,Toonami
-http://www.tot-iptv.com/4208b3a6a1014d1993301918aa0c7089.m3u8?token=fuck
-#EXTINF:-1,Choice Preview ENTERTAINMENT
-http://www.tot-iptv.com/776b6a50795540108ffaf77c979c0578.m3u8?token=fuck
 #EXTINF:-1,FYI HD
 http://www.tot-iptv.com/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?token=fuck
 #EXTINF:-1,CI HD
 http://www.tot-iptv.com/9961a963920f45f4bc0d81c3e478b334.m3u8?token=fuck
 #EXTINF:-1,Nat Geo Wild HD (Thai)
-http://203.114.99.168//stream/totnew.php?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8
+http://www.tot-iptv.com/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?token=fuck
 #EXTINF:-1,Nat Geo Wild HD (Eng)
 http://www.tot-iptv.com/90d14bbf53d14b018d4439ffba6be283.m3u8?token=fuck
 #EXTINF:-1,Nat Geo People HD (Thai)
 http://www.tot-iptv.com/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?token=fuck
-#EXTINF:-1,National Geographic HD(Thai)
-http://www.tot-iptv.com/29fb241f985c468e8e6ffa8942b00a69.m3u8?token=fuck
-#EXTINF:-1,National Geographic HD(English)
-http://www.tot-iptv.com/850a8ca433184938bfaeaf770abc5d7a.m3u8?token=fuck
 #EXTINF:-1,Biography HD
 http://www.tot-iptv.com/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?token=fuck
-#EXTINF:-1,Biography HD
-http://www.tot-iptv.com/8c49d827190b4b29a9d5e3be92e5054c.m3u8?token=fuck
 #EXTINF:-1,CCTV-9 Documentary
 http://www.tot-iptv.com/b08a8052e6724bedba5399f662715ad1.m3u8?token=fuck
 #EXTINF:-1,SMM TV
@@ -365,58 +341,8 @@ http://www.tot-iptv.com/02cb79ab0b0c418f847148ca9e2baed4.m3u8?token=fuck
 http://www.tot-iptv.com/b254601a75724ad79e2633f3d307e331.m3u8?token=fuck
 #EXTINF:-1,Fox Sport 3 (English)
 http://www.tot-iptv.com/443ea6ef1768462aaffdff38ce2a4355.m3u8?token=fuck
-#EXTINF:-1,ETV
-http://www.tot-iptv.com/dbab2fe24ce643689045d3c81e1954d6.m3u8?token=fuck
-#EXTINF:-1,DLTV 1
-http://www.tot-iptv.com/f128d0ea3136406d9c1cc7db91db03da.m3u8?token=fuck
-#EXTINF:-1,DLTV 2
-http://www.tot-iptv.com/8b4d5e8c92d44caf8ee144ce5cc5cd80.m3u8?token=fuck
-#EXTINF:-1,DLTV 3
-http://www.tot-iptv.com/cf271364f6a64785932af875007bc0f7.m3u8?token=fuck
-#EXTINF:-1,DLTV 4
-http://www.tot-iptv.com/2b73e3b7fe1d4c7c885881b122288d9c.m3u8?token=fuck
-#EXTINF:-1,DLTV 5
-http://www.tot-iptv.com/ab578d13d39d41b8b23dfda094550165.m3u8?token=fuck
-#EXTINF:-1,DLTV 6
-http://www.tot-iptv.com/c8634a9ba7db4580bf486cad2efdba5c.m3u8?token=fuck
-#EXTINF:-1,DLTV 7
-http://www.tot-iptv.com/eeeb920c736845dfbf79b5d6f39efbec.m3u8?token=fuck
-#EXTINF:-1,DLTV 8
-http://www.tot-iptv.com/cd5f167f6d7041b295f8173323f9b332.m3u8?token=fuck
-#EXTINF:-1,DLTV 9
-http://www.tot-iptv.com/3b1edacbb4194fd4ae7c787fffddeceb.m3u8?token=fuck
-#EXTINF:-1,DLTV 10
-http://www.tot-iptv.com/54841b55e45546b6b4ba4cc3ba4b5440.m3u8?token=fuck
-#EXTINF:-1,DLTV 11
-http://www.tot-iptv.com/659562d7cd394e06bf5a2cd2e743bcf5.m3u8?token=fuck
-#EXTINF:-1,DLTV 12
-http://www.tot-iptv.com/62a16d17536546629b1daa819e43470e.m3u8?token=fuck
-#EXTINF:-1,DLTV 13
-http://www.tot-iptv.com/a358daf318cf46a2aeafa01a3644f5f0.m3u8?token=fuck
-#EXTINF:-1,DLTV 14
-http://www.tot-iptv.com/8b3884226a024af4ba6d89d10afb2194.m3u8?token=fuck
-#EXTINF:-1,DLTV 15
-http://www.tot-iptv.com/f9603f5472034de7b897f30f1c687b84.m3u8?token=fuck
-#EXTINF:-1,KSTC
-http://www.tot-iptv.com/d537d9993cba40f48b0aa21b019e7d78.m3u8?token=fuck
-#EXTINF:-1,DMC
-http://www.tot-iptv.com/326a1bc675a843488b0b4d69b4f75246.m3u8?token=fuck
-#EXTINF:-1,TV Muslim
-http://www.tot-iptv.com//59b6733e43ba4f93aa90a2b58fd77705.m3u8?token=fuck
-#EXTINF:-1,YATEEM TV
-http://www.tot-iptv.com/7d11f01b76514ef199d4974e0a14194c.m3u8?token=fuck
-#EXTINF:-1,ICT
-http://www.tot-iptv.com/f152025e20504a9ea679ad96ff047b2f.m3u8?token=fuck
-#EXTINF:-1,TOT Channel
-http://www.tot-iptv.com/360304543ea24956a78f9ba83edba1c0.m3u8?token=fuck
-#EXTINF:-1,Media Corp
-http://www.tot-iptv.com/018d9f65365a4744b2c8222ca1d54be9.m3u8?token=fuck
 #EXTINF:-1,Fox Extra
 http://www.tot-iptv.com/1e2041858ca543fa90ec95d28197e907.m3u8?token=fuck
-#EXTINF:-1,China1
-http://www.tot-iptv.com/29a09591a6604ff3b798cd7ef809e4bd.m3u8?token=fuck
-#EXTINF:-1,China2
-http://www.tot-iptv.com/c8233976dbba4a06a101780907447375.m3u8?token=fuck
 #EXTINF:-1,CH3 HD
 http://siam-gps.com/stream/totnew.php?channel_id=a4485b656d764f308c63b14a8bf62326
 #EXTINF:-1,CH3 SD
